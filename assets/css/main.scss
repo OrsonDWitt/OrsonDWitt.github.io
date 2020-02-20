@@ -124,9 +124,14 @@
 }
 
 .books a,.books .navbar-dark .navbar-nav .nav-link {color: #fff; transition: color 0.2s;}
-
 .books a:hover,.books a:focus,.books .navbar-dark .navbar-nav .nav-link:focus,.books .navbar-dark .navbar-nav .nav-link:hover {
         color: #b486b5;
+	font-weight: 600;
+}
+
+a,.books .navbar-dark .navbar-nav .nav-link {color: #fff; transition: color 0.2s;}
+a:hover, a:focus,.books .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+        color: #28a745;
 	font-weight: 600;
 }
 
@@ -136,8 +141,10 @@
 @media screen and (max-width: 990px){
 .dropdown-menu-right,.books .mediumnavigation .dropdown-menu-right {background:transparent; border: none; margin: 0; padding-top: 0;}
 .dropdown-menu-right .dropdown-item {color:#fff}
-.dropdown-menu-right .dropdown-item:hover {color:#b486b5;background:transparent}
-.dropdown-menu-right .dropdown-item:focus {color:#b486b5;background:transparent}
+books .dropdown-menu-right .dropdown-item:hover {color:#b486b5;background:transparent}
+books .dropdown-menu-right .dropdown-item:focus {color:#b486b5;background:transparent}
+.dropdown-menu-right .dropdown-item:hover {color:#28a745;background:transparent}
+.dropdown-menu-right .dropdown-item:focus {color:#28a745;background:transparent}
 }
 
 .dropdown-menu-right .dropdown-item {text-align:center; width:6.5rem;}
