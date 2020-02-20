@@ -20,9 +20,9 @@
   -o-background-size: cover;
   background-size: cover;
 }
-.books .footer {background: transparent;}
 
-.books .navbar-brand {
+.footer {background: transparent;}
+.navbar-brand {
 	padding-top: 0;
 	padding-bottom: 0;
 }
@@ -130,17 +130,17 @@
 	font-weight: 600;
 }
 
-.books .dropdown-menu-right {min-width:4rem;}
+.dropdown-menu-right {min-width:4rem;}
 
 //language switch for smaller screens
 @media screen and (max-width: 990px){
-.books .dropdown-menu-right,.books .mediumnavigation .dropdown-menu-right {background:transparent; border: none; margin: 0; padding-top: 0;}
-.books .dropdown-menu-right .dropdown-item {color:#fff}
-.books .dropdown-menu-right .dropdown-item:hover {color:#b486b5;background:transparent}
-.books .dropdown-menu-right .dropdown-item:focus {color:#b486b5;background:transparent}
+.dropdown-menu-right,.books .mediumnavigation .dropdown-menu-right {background:transparent; border: none; margin: 0; padding-top: 0;}
+.dropdown-menu-right .dropdown-item {color:#fff}
+.dropdown-menu-right .dropdown-item:hover {color:#b486b5;background:transparent}
+.dropdown-menu-right .dropdown-item:focus {color:#b486b5;background:transparent}
 }
 
-.books .dropdown-menu-right .dropdown-item {text-align:center; width:6.5rem;}
+.dropdown-menu-right .dropdown-item {text-align:center; width:6.5rem;}
 
 .books .dropdown-menu a {color:#000;}
 .books .dropdown-menu a:hover, .dropright .dropdown-menu a:focus {color:#000}
