@@ -1,0 +1,164 @@
+---
+# Add a comment to make this file sass-y.
+# Change this file for any custom CSS.
+---
+
+/* We need to add display:inline in order to align the '>>' of the 'read more' link */
+.post-excerpt p {
+	display:inline;
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+	"syntax",
+    "starsnonscss"
+;
+
+.books {background-color: #000000; background-image: url('http://orsondewitt.com/background.jpg'); background-repeat: repeat; background-position: left top; background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.books .footer {background: transparent;}
+
+.books .navbar-brand {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.mediumnavigation .navbar-brand img  {
+	max-height: 44px;
+	margin-top: 3px;
+}
+
+//logo adjustment for menu
+@media screen and (max-width: 1950px){
+.padding-adjustment {
+	padding-left: 6.5rem!important;
+	}
+.padding-adjustment-posts {
+	padding-left: 8rem!important;
+	}
+}
+@media screen and (max-width: 1890px){
+.padding-adjustment-posts {
+	padding-left: 6rem!important;
+	}
+}
+@media screen and (max-width: 1810px){
+.padding-adjustment {
+	padding-left: 5.5rem!important;
+	}
+.padding-adjustment-posts {
+	padding-left: 7rem!important;
+	}
+}
+@media screen and (max-width: 1720px){
+.padding-adjustment {
+	padding-left: 4.5rem!important;
+	}
+.padding-adjustment-posts {
+	padding-left: 6rem!important;
+	}
+}
+@media screen and (max-width: 1635px){
+.padding-adjustment {
+	padding-left: 4rem!important;
+	}
+.padding-adjustment-posts {
+	padding-left: 5rem!important;
+	}
+
+}
+@media screen and (max-width: 1550px){
+.padding-adjustment-posts {
+	padding-left: 4.5rem!important;
+	}
+}
+@media screen and (max-width: 1510px){
+.padding-adjustment {
+	padding-left: 3.5rem!important;
+	}
+}
+@media screen and (max-width: 1500px){
+.padding-adjustment-posts {
+	padding-left: 0.5rem!important;
+	}
+}
+@media screen and (min-width: 1200px){
+.padding-adjustment-about {
+        .padding-left: 11.5rem!important;
+}
+}
+
+@media screen and (min-width: 990px){
+.padding-adjustment {
+	padding-left: 8.5rem!important;
+	}
+}
+@media screen and (max-width: 768px){
+.padding-adjustment-about {
+        .padding-left: 0rem!important;
+}
+
+@media screen and (max-width: 990px){
+.padding-adjustment-about {
+        .padding-left: 2rem!important;
+}
+
+@media screen and (max-width: 768px){
+.padding-adjustment-about {
+        .padding-left: 0rem!important;
+}
+}
+@media screen and (max-width: 576px){
+.padding-adjustment {
+	padding-left: 0rem!important;
+	}
+.mediumnavigation .navbar-brand img, {
+	max-height: 34px;
+	margin-top: 3px;
+}
+}
+
+.books a,.books .navbar-dark .navbar-nav .nav-link {color: #fff; transition: color 0.2s;}
+
+.books a:hover,.books a:focus,.books .navbar-dark .navbar-nav .nav-link:focus,.books .navbar-dark .navbar-nav .nav-link:hover {
+        color: #b486b5;
+	font-weight: 600;
+}
+
+.books .dropdown-menu-right {min-width:4rem;}
+
+//language switch for smaller screens
+@media screen and (max-width: 990px){
+.books .dropdown-menu-right,.books .mediumnavigation .dropdown-menu-right {background:transparent; border: none; margin: 0; padding-top: 0;}
+.books .dropdown-menu-right .dropdown-item {color:#fff}
+.books .dropdown-menu-right .dropdown-item:hover {color:#b486b5;background:transparent}
+.books .dropdown-menu-right .dropdown-item:focus {color:#b486b5;background:transparent}
+}
+
+.books .dropdown-menu-right .dropdown-item {text-align:center; width:6.5rem;}
+
+.books .dropdown-menu a {color:#000;}
+.books .dropdown-menu a:hover, .dropright .dropdown-menu a:focus {color:#000}
+.books h3 {text-align:left}
+
+div .book-1 {
+	 background-color: #000000;
+        border-radius: 5px 0px 0px 5px;
+        border-top: 1px solid #fff; border-left: 1px solid #fff; border-bottom: 1px solid #fff;
+	overflow: auto; padding:2% 1% 2% 2%;}
+
+div .book-2 {
+		 background-color: #000000;
+        border-radius: 0px 5px 5px 0px;
+        border-top: 1px solid #fff; border-right: 1px solid #fff; border-bottom: 1px solid #fff;
+	overflow: auto; padding:2% 5% 2% 1%; font-family:'PT Serif', serif;}
+
+@media screen and (max-width: 576px){
+	h3 {text-align:center};
+	.books .col-12 {text-align:center};
+	div .book-1 {border:none; padding:2% 1% 2% 2%;};
+	div .book-2 {border:none; padding:2% 1% 2% 2%;};
+}
