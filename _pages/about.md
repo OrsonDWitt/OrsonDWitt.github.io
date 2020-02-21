@@ -18,12 +18,10 @@ comments: false
 But the old moose had already died by the time Orson returned, so it's up to you to decide if the stories he invented are any good; if the task is complete; if the moose would be proud.<p>
 Let Orson know if his stories are any good via e-mail: <a href="mailto:author@orsondewitt.com">author@orsondewitt.com</a> or follow him on
 
-<a href="http://www.facebook.com/OrsonDeWitt" target="_blank" alt="Facebook" title="Follow on Facebook">Facebook</a>,
-<a href="http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=OrsonDeWitt" target="_blank" alt="Twitter" title="Follow on Twitter">Twitter</a>,
-<a href="https://www.goodreads.com/OrsonDeWitt" target="_blank" alt="Goodreads" title="Follow on Goodreads">Goodreads</a>, or
-<a href="http://instagram.com/OrsonDeWitt" target="_blank" alt="Instagram" title="Follow on Instagram">Instagram</a>
+<br><a href="http://instagram.com/OrsonDeWitt" target="_blank" alt="Instagram" title="Follow on Instagram">Instagram</a>,
+<br><a href="http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=OrsonDeWitt" target="_blank" alt="Twitter" title="Follow on Twitter">Twitter</a> (I might get more active on it in the future), or
+<br><a href="https://www.goodreads.com/OrsonDeWitt" target="_blank" alt="Goodreads" title="Follow on Goodreads">Goodreads</a>
 </p>
 
-<h4>Questions or bug reports?</h4>
-<p>Head over</p>
-</div></div>
+<h4>Questions?</h4>
+<p>Head over</p></div></div>
