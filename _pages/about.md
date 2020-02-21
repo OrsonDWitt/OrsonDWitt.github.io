@@ -16,7 +16,7 @@ comments: false
 <p>Born and raised in the harsh environment of pine forests, Orson learned a thing or two about storytelling from a seasoned moose. Upon graduation, the moose gave him a task that would change the course of his life forever. It asked of Orson to venture out of the woods and find a story so marvelous it would keep the moose on its hooves. And thus he set off to face the unknown and find new pastures, filled to the brim with adventurous people and provocative stories. He worked as an orbital garbage man, cyber police officer, spam-bot and even a thermos, but nowhere could he find a story that would blow the socks off of the old moose. Until, one day, he discovered that the best story is not the one that you find, but the one you invent. 
 </p><p>
 But the old moose had already died by the time Orson returned, so it's up to you to decide if the stories he invented are any good; if the task is complete; if the moose would be proud.<p>
-Let Orson know if his stories are any good via e-mail: <a href="mailto:author@orsondewitt.com">author@orsondewitt.com</a> or on
+Let Orson know if his stories are any good via e-mail: <a href="mailto:author@orsondewitt.com">author@orsondewitt.com</a> or follow him on
 
 <a href="http://www.facebook.com/OrsonDeWitt" target="_blank" alt="Facebook" title="Follow on Facebook">Facebook</a>,
 <a href="http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=OrsonDeWitt" target="_blank" alt="Twitter" title="Follow on Twitter">Twitter</a>,
