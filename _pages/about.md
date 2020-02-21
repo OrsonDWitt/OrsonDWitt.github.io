@@ -9,7 +9,7 @@ comments: false
 <div class="col-md-4 col-lg-3 pt-2">
 <div class="sticky-top sticky-top-80 text-sm-right text-center">
 <p class="text-center text-md-right"><img class="shadow" src="{{site.baseurl}}/assets/images/orson.jpg" alt="Orson De Witt" /></p>
-<p class="text-center text-xl-right"><a target="_blank" href="https://egypt.orcinusgames.com/" class="btn btn-danger mb-1">Gamedev</a> <a href="/" class="btn btn-warning mb-1">Author</a><a href="" class="btn btn-secondary mb-1">Thermos</a></p>
+<p class="text-center text-xl-right"><a target="_blank" href="https://egypt.orcinusgames.com/" class="btn btn-danger mb-1">Gamedev</a> <a href="/" class="btn btn-warning mb-1">Author</a> <a href="" class="btn btn-primary mb-1">Thermos</a></p>
 </div>
 </div>
 <div class="col-md-8 col-lg-6 pr-5">
@@ -18,9 +18,9 @@ comments: false
 But the old moose had already died by the time Orson returned, so it's up to you to decide if the stories he invented are any good; if the task is complete; if the moose would be proud.<p>
 Let Orson know if his stories are any good via e-mail: <a href="mailto:author@orsondewitt.com">author@orsondewitt.com</a> or follow him on
 
-<br><a href="http://instagram.com/OrsonDeWitt" target="_blank" alt="Instagram" title="Follow on Instagram">Instagram</a>,
-<br><a href="http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=OrsonDeWitt" target="_blank" alt="Twitter" title="Follow on Twitter">Twitter</a> (I might get more active on it in the future), or
-<br><a href="https://www.goodreads.com/OrsonDeWitt" target="_blank" alt="Goodreads" title="Follow on Goodreads">Goodreads</a>
+<a href="http://instagram.com/OrsonDeWitt" target="_blank" alt="Instagram" title="Follow on Instagram">Instagram</a>,
+<a href="http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=OrsonDeWitt" target="_blank" alt="Twitter" title="Follow on Twitter">Twitter</a> (I might get more active on it in the future), or
+<a href="https://www.goodreads.com/OrsonDeWitt" target="_blank" alt="Goodreads" title="Follow on Goodreads">Goodreads</a>
 </p>
 
 <h4>Questions?</h4>
