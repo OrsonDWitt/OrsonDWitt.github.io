@@ -136,7 +136,7 @@ padding-left: 0.5rem!important;
 }
 
 a {color: #3177d8; transition: color 0.2s;}
-a:hover, a:focus {color:#bdd8ff}
+a:hover, a:focus {color:#ff4500}
 .navbar-dark .navbar-nav .nav-link {color: #fff; transition: color 0.2s;}
 .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
         color: #bdd8ff;
@@ -146,6 +146,9 @@ a:hover, a:focus {color:#bdd8ff}
 
 //language switch for smaller screens
 @media screen and (max-width: 990px){
+.dropdown-menu a {color:#fff}
+books .dropdown-menu a:hover, books .dropdown-menu a:focus {color:#b486b5}
+.dropdown-menu a:hover, .dropdown-menu a:focus {color:#bdd8ff}
 .dropdown-menu-right,.mediumnavigation .dropdown-menu-right {background:transparent; border: none; margin: 0; padding-top: 0;}
 .dropdown-menu-right .dropdown-item {color:#fff}
 books .dropdown-menu-right .dropdown-item:hover {color:#b486b5;background:transparent}
