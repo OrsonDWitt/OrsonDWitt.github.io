@@ -128,6 +128,12 @@
 ================================================== -->
 <div class="main-content">
     {{ content }}
+<--
+<h4>Did you like what you read?</h4>
+Ever so often I send out a mail to my subscribers with things I consider worth sharing — interesting facts, game updates, new pieces of writing, etc. — and I invite <b>you</> to join us.
+You're not gerting a cat in the bag; all the previous newsletters can be read here.
+No spam, no ads. Unsubscribe whenever you want.
+-->
 </div>
 
 {% if site.mailchimp-list %}
@@ -135,7 +141,7 @@
 ================================================== -->
 <div class="alertbar">
 	<div class="container text-center">
-		<span> &nbsp; Never miss a <b>story</b>, subscribe to our newsletter</span>
+		<span> &nbsp; Never miss a <b>story</b>! No spam, no ads. Subscribe here: </span>
         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
             <div class="mc-field-group">
             <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
