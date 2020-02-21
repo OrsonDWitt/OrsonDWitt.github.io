@@ -1,5 +1,6 @@
 ---
 layout: books
+title: Orca Hunting School
 permalink: /
 comments: false
 ---
