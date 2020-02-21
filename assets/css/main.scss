@@ -149,6 +149,8 @@ a:hover, a:focus {color:#ff4500}
 .dropdown-menu a:hover, .dropdown-menu a:focus {color:#bdd8ff}
 .dropdown-menu-right,.mediumnavigation .dropdown-menu-right {background:transparent; border: none; margin: 0; padding-top: 0;}
 .dropdown-menu-right .dropdown-item {color:#fff}
+.dropdown-menu-right .dropdown-item:hover {color:#bdd8ff}
+.dropdown-menu-right .dropdown-item:focus {color:#bdd8ff}
 books .dropdown-menu-right .dropdown-item:hover {color:#b486b5;background:transparent}
 books .dropdown-menu-right .dropdown-item:focus {color:#b486b5;background:transparent}
 .dropdown-menu-right .dropdown-item:hover {color:#28a745;background:transparent}
