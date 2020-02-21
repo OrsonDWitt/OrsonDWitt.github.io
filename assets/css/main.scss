@@ -57,7 +57,7 @@ a:hover, a:focus {color:#ff4500}
 .dropdown-menu a:hover,.dropdown-menu a:focus {color:#bdd8ff};
 .books .dropdown-menu a:hover,.dropdown-menu a:focus {color:#b486b5};
 .dropdown-menu-right,.mediumnavigation .dropdown-menu-right {background:transparent; border: none; margin: 0; padding-top: 0;};
-.dropdown-menu-right .dropdown-item, .dropdown-menu a {color:#fff};
+.dropdown-menu-right .dropdown-item, .dropdown-menu a {color:#fff},.books dropdown-menu-right a {color:#fff};
 .books .dropdown-menu a {color:#000};
 .dropdown-menu-right .dropdown-item:hover {color:#bdd8ff;background:transparent};
 .dropdown-menu-right .dropdown-item:focus {color:#bdd8ff;background:transparent};
