@@ -129,20 +129,18 @@
 <div class="main-content">
     {{ content }}
 			{% if page.url == "/about" %}
-                    <form id="sender-subscribe" target="_blank" action="https://app.sender.net/forms/sender_subscription/2812/e3bbda51" class="wj-contact-form validate" method="POST" novalidate>  
-            <div class="mc-field-group">
-			    <input name="email" class="required email" id="email" data-label="E-mail" autocomplete="on" placeholder="Your e-mail" required>
-				 <input type="submit" value="Subscribe" name="subscribe" class="heart">
+	<div class="col-md-8 col-lg-6 pr-5">
+{% include subscribe.html %}
+		</div
 		    {% endif %}
 {% if page.layout == 'post' %}
 <h4>Did you like what you read?</h4>
 Ever so often I send out a mail to my subscribers with things I consider worth sharing — interesting facts, game updates, new pieces of writing, etc. — and I invite <b>you</b> to join us.
 You're not gerting a cat in the bag; all the previous newsletters can be read here.
 No spam, no ads. Unsubscribe whenever you want.
-		                        <form id="sender-subscribe" target="_blank" action="https://app.sender.net/forms/sender_subscription/2812/e3bbda51" class="wj-contact-form validate" method="POST" novalidate>  
-            <div class="mc-field-group">
-			    <input name="email" class="required email" id="email" data-label="E-mail" autocomplete="on" placeholder="Your e-mail" required>
-				 <input type="submit" value="Subscribe" name="subscribe" class="heart">
+	<div class="col-md-8 col-lg-6 pr-5">
+{% include subscribe.html %}
+		</div
 {% endif %}
 </div>
 </div>
