@@ -147,6 +147,7 @@ a:hover, a:focus {color:#ff4500}
 //language switch for smaller screens
 @media screen and (max-width: 990px){
 .dropdown-menu a:hover, .dropdown-menu a:focus {color:#bdd8ff}
+books .dropdown-menu a:hover, .dropdown-menu a:focus {color:#b486b5}
 .dropdown-menu-right,.mediumnavigation .dropdown-menu-right {background:transparent; border: none; margin: 0; padding-top: 0;}
 .dropdown-menu-right .dropdown-item {color:#fff}
 .dropdown-menu-right .dropdown-item:hover {color:#bdd8ff}
