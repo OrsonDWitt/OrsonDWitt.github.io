@@ -24,5 +24,5 @@ Let Orson know if his stories are any good via e-mail: <a href="mailto:author@or
 </p>
 
 <h4>Do you still write?</h4>
-<p>I still do, but I don't publish. After having self-published 2 works, a novel and a novelette, I've decided to take it up a notch and redirect my efforts into game development, which I've been very passionate about for as long as I can remember. Hence, all my time is dedicated to the interactive fiction/strategy video game <strong>Egypt: Shattered Order</strong>. If you wish to follow its development, I invite you to subscribe to the newsletter. Thanks!</p>
+<p>I do, but I don't publish. After having self-published 2 works, a novel and a novelette, I've decided to take it up a notch and redirect my efforts into game development, which I've been very passionate about for as long as I can remember. Hence, all my time is dedicated to the interactive fiction/strategy video game <strong>Egypt: Shattered Order</strong>. If you wish to follow its development, I invite you to subscribe to the newsletter. Thanks!</p>
 {% include subscribe.html %}
