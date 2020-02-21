@@ -19,7 +19,7 @@ But the old moose had already died by the time Orson returned, so it's up to you
 Let Orson know if his stories are any good via e-mail: <a href="mailto:author@orsondewitt.com">author@orsondewitt.com</a> or follow him on
 
 <a href="http://instagram.com/OrsonDeWitt" target="_blank" alt="Instagram" title="Follow on Instagram">Instagram</a>,
-<a href="http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=OrsonDeWitt" target="_blank" alt="Twitter" title="Follow on Twitter">Twitter</a> (I might get more active on it in the future), or
+<a href="http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=OrsonDeWitt" target="_blank" alt="Twitter" title="Follow on Twitter">Twitter</a>, or
 <a href="https://www.goodreads.com/OrsonDeWitt" target="_blank" alt="Goodreads" title="Follow on Goodreads">Goodreads</a>
 </p>
 
