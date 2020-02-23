@@ -53,7 +53,7 @@ a:hover, a:focus {color:#ff4500}
 .dropdown-menu-right {min-width:4rem;}
 
 //language switch for smaller screens
-@media screen and (max-width: 990px){
+@media screen and (max-width: 991px){
 .dropdown-menu a:hover,.dropdown-menu a:focus {color:#bdd8ff};
 .books .dropdown-menu a {color:#000};
 .dropdown-menu-right,.mediumnavigation .dropdown-menu-right {background:transparent; border: none; margin: 0; padding-top: 0;};
@@ -143,12 +143,12 @@ div .book-2 {
 }
 }
 
-@media screen and (min-width: 990px){
+@media screen and (min-width: 991px){
 .padding-adjustment {
 	padding-left: 4.5rem!important;
 	}
 }
-@media screen and (max-width: 990px){
+@media screen and (max-width: 991px){
 .padding-adjustment {
 padding-left: 0.5rem!important;
 }
@@ -160,7 +160,7 @@ padding-left: 0.5rem!important;
 }
 }
 
-@media screen and (max-width: 990px){
+@media screen and (max-width: 991px){
 .padding-adjustment-about {
         .padding-left: 2rem!important;
 }
