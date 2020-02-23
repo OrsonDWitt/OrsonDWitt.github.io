@@ -10,9 +10,8 @@
         </li>
 
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+            <a target="_blank" href="https://www.facebook.com/dialog/feed?app_id=308619723431504 &link={{ page.url | absolute_url }} &picture={% if page.image %}{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}{% else %}https://orsondewitt.com/assets/images/logo.png &caption={{ post.title }} &description={{ post.excerpt | strip_html | truncatewords:30 }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
                 <i class="fab fa-facebook-f"></i>
-                https://www.facebook.com/dialog/feed?app_id=308619723431504 &link={{ page.url | absolute_url }} &picture={% if page.image %}{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}{% else %}https://orsondewitt.com/assets/images/logo.png &caption={{ post.title }} &description={{ post.excerpt | strip_html | truncatewords:30 }}
             </a>
         </li>
 
