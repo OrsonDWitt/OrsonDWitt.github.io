@@ -63,4 +63,9 @@ kramdown:
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
+emptyArray: []
+
+comments:
+  receiver: https://orsondewitt.com/api/PostComment}}
+
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
