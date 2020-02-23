@@ -11,7 +11,7 @@ disqus: 'demowebsite'
 include: ["_pages"]
 permalink: /posts/:title/
 russian: 'https://ru.orsondewitt.com/'
-english: 'https://orsondewitt.com/'
+english: 'https://orsondewitt.com'
 
 games: 'https://egypt.orcinusgames.com'
 # discord_invite: 'https://discord.gg/amMNE4x'
