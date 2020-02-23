@@ -67,5 +67,23 @@ emptyArray: []
 
 comments:
   receiver: https://orsondewitt.com/api/PostComment
+  
+  defaults:
+  -
+    scope:
+      path: ''
+      type: pages
+    values:
+      layout: page
+      author: damieng
+      commenting: open
+  -
+    scope:
+      path: '_posts'
+      type: posts
+    values:
+      layout: post
+      author: damieng
+      commenting: open
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
