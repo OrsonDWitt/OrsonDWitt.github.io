@@ -16,6 +16,18 @@ Anyway, here it goes.
 
 Step - Completion - Approximate date of completion
 
+|            Step           | Completion % | Approximate date of completion |
+|:-------------------------:|:------------:|:------------------------------:|
+|     Core functionality    |      90%     |                -               |
+|           Story           |      60%     |            May 2020            |
+|     Building projects     |      60%     |            June 2020           |
+| Policies and technologies |      80%     |            June 2020           |
+|    Resource management    |      0%      |            July 2020           |
+|          Visuals          |      0%      |         September 2020         |
+|           Music           |      25%     |         September 2020         |
+|        Achievements       |      23%     |          October 2020          |
+|        Steam cards        |      0%      |          October 2020          |
+
 # Backbone - 96%
 ## Engine....100%
 ### Mechanics.....90%
