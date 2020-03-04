@@ -78,7 +78,7 @@ Anyway, here it goes.
 | Get Composers on Board<br><sub><span class="spoiler">Two great composers with experience in recreating Ancient Egyptian music have agreed to be a part of the project.</span></sub> 	| 100% 	|
 | Fine-Tune 	| 0% 	|
 | Loop & Edit<br><sub><span class="spoiler">A professional might be able to do this.</span></sub> 	| 0% 	|
-| Implementation<br><sub><span class="spoiler">Story has to be complemented with music in a fitting way.</span></sub> 	| 0% 	|
+| Implementation<br><sub><span class="spoiler">Story has to be complemented by music in a fitting way.</span></sub> 	| 0% 	|
 
 
 
