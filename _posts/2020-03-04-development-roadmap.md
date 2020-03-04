@@ -14,7 +14,9 @@ I thought that a development roadmap is a great way to create a framework for mo
 
 Anyway, here it goes.
 
-<br><center> <h2>Core Functionality (90%)</h2> </center>
+
+
+<center> <h2>Core Functionality (90%)</h2> </center>
 
 | Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
@@ -23,7 +25,9 @@ Anyway, here it goes.
 | Saving System 	| 100% 	|
 | In-Game Menu 	| 70% 	|
 
-<br><center> <h2>Story (70%)</h2> </center>
+
+
+<center> <h2>Story (70%)</h2> </center>
 
 | Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
@@ -32,21 +36,27 @@ Anyway, here it goes.
 | City Exploration<br><sub><span class="spoiler">50 out of 60 possible exploration stories finished.</span></sub> 	| 83% 	|
 | Ma'at Events<br><sub><span class="spoiler">Have to be written after the mess with resources is figured out for optimal balance and to eliminate the need to re-do it.</span></sub> 	| 20% 	|
 
-<br><center> <h2>Activities (70%)</h2> </center>
+
+
+<center> <h2>Activities (70%)</h2> </center>
 
 | Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
 | Buildings<br><sub><span class="spoiler">The city screen is functioning; most buildings have descriptions and some effects have been added to them.</span></sub> 	| 60% 	|
 | Policies & Technologies<br><sub><span class="spoiler">Most policies and technologies are finished, but the exact effects each of them is going to have on the game is still to be determined in the test build.</span></sub> 	| 80% 	|
 
-<br><center> <h2>Resource Management (10%)</h2> </center>
+
+
+<center> <h2>Resource Management (10%)</h2> </center>
 
 | Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
 | Resource Management<br><sub><span class="spoiler">Resources are already implemented and every choice has an estimated effect on them already, but the optimal balance is yet to be found.</span></sub> 	| 20% 	|
 | Balance<br><sub><span class="spoiler">Effects of policies, technologies, events, choices, and everything else have to be glued together so that game is balanced and fun to play for everyone.</span></sub> 	| 0% 	|
 
-<br><center> <h2>Visuals (0%)</h2> </center>
+
+
+<center> <h2>Visuals (0%)</h2> </center>
 
 | Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
@@ -59,7 +69,9 @@ Anyway, here it goes.
 | Implementation<br><sub><span class="spoiler">All the art has to be implemented into the game.</span></sub> 	| 0% 	|
 | Steam Cards<br><sub><span class="spoiler">Steam cards might be their own can of worms.</span></sub> 	| 0% 	|
 
-<br><center> <h2>Music (25%)</h2> </center>
+
+
+<center> <h2>Music (25%)</h2> </center>
 
 | Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
@@ -68,7 +80,9 @@ Anyway, here it goes.
 | Loop & Edit<br><sub><span class="spoiler">A professional might be able to do this.</span></sub> 	| 0% 	|
 | Implementation<br><sub><span class="spoiler">Story has to be complemented with music in a fitting way.</span></sub> 	| 0% 	|
 
-<br><center> <h2>Extras (4%)</h2> </center>
+
+
+<center> <h2>Extras (4%)</h2> </center>
 
 | Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
@@ -78,4 +92,6 @@ Anyway, here it goes.
 | Localization<br><sub><span class="spoiler">Some people expressed willingness to help localize the game for Russian audience.</span></sub> 	| 0% 	|
 | Credits Menu 	| 0% 	|
 
-<br>
+
+
+
