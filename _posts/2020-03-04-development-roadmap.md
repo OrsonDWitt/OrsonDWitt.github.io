@@ -16,10 +16,10 @@ Anyway, here it goes.
 
 <center> <h2>Core Functionality (90%)</h2> </center>
 
-<b>| Step 	|  Completion %  	|</b>
-|---------------	|:------------:	|
+<b>| Step 	|  Completion  	|</b>
+|--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
 | Engine 	| 100% 	|
-| Mechanics<br><sub>Most game mechanics are currently functioning, but have not yet been tested with the story. <br>Bugs may appear as content is implemented.</sub> 	| 90% 	|
+| Mechanics<br><sub>Most game mechanics are currently functioning, but have not yet been tested with the story.<br>Bugs may appear as content is added.</sub> 	| 90% 	|
 | Saving System 	| 100% 	|
 | In-Game Menu 	| 70% 	|
 
