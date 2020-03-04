@@ -16,10 +16,10 @@ Anyway, here it goes.
 
 <center> <h2>Core Functionality (90%)</h2> </center>
 
-| Step 	|  Completion  	| Description 	|
+<b>| Step 	|  Completion  	| Description 	|</b>
 |---------------	|:------------:	|:------------------------------------------------------------------------------------------------------------------------------------------:	|
 | Engine 	| 100% 	| All systems go! 	|
-| Mechanics 	| 90% 	| Most game mechanics are currently functioning, but have not yet been tested with the story. <br>Bugs may appear as content is implemented. 	|
+| Mechanics<br><sub>Most game mechanics are currently functioning, but have not yet been tested with the story. <br>Bugs may appear as content is implemented.</sub> 	| 90% 	|  	|
 | Saving System 	| 100% 	| -  	|
 | In-Game Menu 	| 70% 	| - 	|
 
@@ -103,5 +103,5 @@ The judgement of Osiris; the final screen that, Telltale Games-like, shows the h
 7.2. Achievements......23%
 From time to time, I think of achievements that can be implemented and write descriptions for them. 7/30 so far.
 7.3. Localization.......0%
-There are some people willing to help with localizing the game for Russian audience
-7.4. Credits menu
+Some people expressed willingness to help localize the game for Russian audience
+7.4. Credits menu.......0%
