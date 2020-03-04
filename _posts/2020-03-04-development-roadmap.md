@@ -77,18 +77,3 @@ Anyway, here it goes.
 | Achievements<br><sub><span class="spoiler">From time to time, I think of achievements that can be implemented and write descriptions for them. 7/30 so far.</span></sub> 	| 23% 	|
 | Localization<br><sub><span class="spoiler">Some people expressed willingness to help localize the game for Russian audience.</span></sub> 	| 0% 	|
 | Credits Menu 	| 0% 	|
-
-
-Step - Completion - Approximate date of completion
-
-|            Step           | Completion % | Approximate date of completion |
-|:-------------------------:|:------------:|:------------------------------:|
-|     Core functionality    |      90%     |                -               |
-|           Story           |      60%     |            May 2020            |
-|     Building projects     |      60%     |            June 2020           |
-| Policies and technologies |      80%     |            June 2020           |
-|    Resource management    |      0%      |            July 2020           |
-|          Visuals          |      0%      |         September 2020         |
-|           Music           |      25%     |         September 2020         |
-|        Achievements       |      23%     |          October 2020          |
-|        Steam cards        |      0%      |          October 2020          |
