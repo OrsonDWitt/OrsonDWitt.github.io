@@ -16,13 +16,18 @@ Anyway, here it goes.
 
 <center> <h1>Core Functionality (90%)</h1> </center>
 
-| Step | Completion % | Description |
-|--------------:|:------------:|----------------------------------------------------------------------------------------------------------------------------------------|
-| Engine | 100% | All systems go! |
-| Mechanics | 90% | Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is implemented. |
-| Saving System | 100% | -  |
-| In-Game Menu | 70% | - |
+| Step 	| Completion % 	| Description 	|
+|--------------:	|:------------:	|-----------------------------------------------------------------------------------------------------------------------------------------	|
+| Engine 	| 100% 	| All systems go! 	|
+| Mechanics 	| 90% 	| Most game mechanics are currently functioning, but have not yet been tested with the story.  Bugs may appear as content is implemented. 	|
+| Saving System 	| 100% 	| -  	|
+| In-Game Menu 	| 70% 	| - 	|
 
+<center> <h1>Story (60%)</h1> </center>
+
+<center> <h1>Activities (60%)</h1> </center>
+
+<center> <h1>Resource Management (60%)</h1> </center>
 
 Step - Completion - Approximate date of completion
 
@@ -37,13 +42,6 @@ Step - Completion - Approximate date of completion
 |           Music           |      25%     |         September 2020         |
 |        Achievements       |      23%     |          October 2020          |
 |        Steam cards        |      0%      |          October 2020          |
-
-# Backbone - 90%
-## Engine....100%
-### Mechanics.....90%
-Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is implemented.
-1.3. Saving system....100%
-1.4. In-game menu 70%
 
 2. Story - 60% - Apr 2020
 2.1. Early years....97%
