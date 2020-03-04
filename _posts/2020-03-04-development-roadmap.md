@@ -19,7 +19,7 @@ Anyway, here it goes.
 | Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
 | Engine 	| 100% 	|
-| Mechanics<br><sub><span class="spoiler" style="color:#808080">Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is added.</span></sub> 	| 90% 	|
+| Mechanics<br><sub><span class="spoiler">Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is added.</span></sub> 	| 90% 	|
 | Saving System 	| 100% 	|
 | In-Game Menu 	| 70% 	|
 
@@ -27,21 +27,37 @@ Anyway, here it goes.
 
 | Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
-| Early Years<br><span class="spoiler" style="color:#808080">46 out 47 branches completed, a few problematic places left.</span> 	| 97% 	|
-| Late Years<br><sub><span class="spoiler" style="color:#808080">A few branches still remain untouched.</span></sub> 	| 80% 	|
-| City Exploration<br><sub><span class="spoiler" style="color:#808080">50 out of 60 possible exploration stories finished.</span></sub> 	| 83% 	|
-| Ma'at Events<br><sub><span class="spoiler" style="color:#808080">Have to be written after the mess with resources is figured out for optimal balance and to eliminate the need to re-do it.</span></sub> 	| 20% 	|
+| Early Years<br><span class="spoiler">46 out 47 branches completed, a few problematic places left.</span> 	| 97% 	|
+| Late Years<br><sub><span class="spoiler">A few branches still remain untouched.</span></sub> 	| 80% 	|
+| City Exploration<br><sub><span class="spoiler">50 out of 60 possible exploration stories finished.</span></sub> 	| 83% 	|
+| Ma'at Events<br><sub><span class="spoiler">Have to be written after the mess with resources is figured out for optimal balance and to eliminate the need to re-do it.</span></sub> 	| 20% 	|
 
 <center> <h2>Activities (70%)</h2> </center>
 
 | Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
-| Buildings<br><span class="spoiler" style="color:#808080">The city screen is functioning; most buildings have descriptions and some effects have been added to them.</span> 	| 60% 	|
-| Policies & Technologies<br><sub><span class="spoiler" style="color:#808080">Most policies and technologies are finished, but the exact effects each of them is going to have on the game is still to be determined in the test build.</span></sub> 	| 80% 	|
+| Buildings<br><span class="spoiler">The city screen is functioning; most buildings have descriptions and some effects have been added to them.</span> 	| 60% 	|
+| Policies & Technologies<br><sub><span class="spoiler">Most policies and technologies are finished, but the exact effects each of them is going to have on the game is still to be determined in the test build.</span></sub> 	| 80% 	|
 
 <center> <h2>Resource Management (10%)</h2> </center>
 
+| Step 	|  Completion  	|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
+| Resource Management<br><span class="spoiler">Resources are already implemented and every choice has an estimated effect on them already, but the optimal balance is yet to be found.</span> 	| 20% 	|
+| Balance<br><sub><span class="spoiler">Effects of policies, technologies, events, choices, and everything else have to be glued together so that game is balanced and fun to play for everyone.</span></sub> 	| 0% 	|
+
 <center> <h2>Visuals (0%)</h2> </center>
+
+| Step 	|  Completion  	|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
+| Artist Found<br><span class="spoiler">I have not begun searching for an artist yet as the story has to be finished and tested first.</span> 	| 0% 	|
+| Concept<br><sub><span class="spoiler">The "ancient egyptian drawings that move as the story progresses" havr to be approved as a viable idea and drawn by the artist.</span></sub> 	| 5% 	|
+| Logos, capsule images<br><sub><span class="spoiler">Beautiful art has to be drawn for the steam page, website, etc. to capture attention of people interested in the game.</span></sub> 	| 0% 	|
+| User Interface<br><sub><span class="spoiler">The user interface *works* and I have an idea of how it should look; however the artist that is going to work on the game might have better ideas.</span></sub> 	| 10% 	|
+| Art<br><sub><span class="spoiler">All the art has to be drawn by the artist - backgrounds, characters, UI elements, etc.</span></sub> 	| 0% 	|
+| City Map<br><sub><span class="spoiler">Giant amount of resources are yet to be spent on this.</span></sub> 	| 0% 	|
+| Implementation<br><sub><span class="spoiler">All the art has to be implemented into the game.</span></sub> 	| 0% 	|
+| Steam Cards<br><sub><span class="spoiler">Steam cards might be their own can of worms.</span></sub> 	| 0% 	|
 
 <center> <h2>Music (25%)</h2> </center>
 
@@ -61,35 +77,6 @@ Step - Completion - Approximate date of completion
 |        Achievements       |      23%     |          October 2020          |
 |        Steam cards        |      0%      |          October 2020          |
 
-3. Seasonal activities
-3.1. Buildings......60%
-The city screen is functioning; most buildings have descriptions and some effects have been added to them.
-3.2. Policies and technologies.......80%
-Most policies and technologies are written in full, but the exact effects each of them is going to have on the game is still to be decided upon in the test build
-
-4. Resource management
-2.5. Resource management...20%
-Resource management has to be figured out during the test build. Every choice has an estimated effect already, but the optimal balance is yet to be found.
-2.6. Balance...0%
-Effects of policies, technologies, events, choices, and everything else have to be glued together so that game is balanced and fun to play for everyone
-
-5. Visuals......0%
-5.1. Artist found.......0%
-I have not begun searching for an artist yet as the story has to be finished and tested first
-5.1. Concept.....10%
-The "ancient egyptian drawings that move as the story progresses" havr to be approved as a viable idea and drawn by the artist
-5.2. Logos, capsule images.......0%
-Beautiful art on the steam page, website, etc. has to capture attention of people interested in the game
-5.3. UI.......10%
-The user interface *works* and I have an idea of how it should look; however the artist that is going to work on the game might have better ideas.
-5.4. Drawings......0%
-All the art has to be drawn by the artist - backgrounds, characters, UI elements, etc.
-5.5. City map
-Policy and technology images
-5.4. Implementation.....0%
-All the art has to be implemented into the game
-5.5. Steam cards......0%
-Steam cards need some additional effort to be implemented
 
 6. Music - 50%
 6.1. Get composers on board...........100%
