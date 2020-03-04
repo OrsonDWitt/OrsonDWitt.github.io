@@ -16,10 +16,13 @@ Anyway, here it goes.
 
 Step - Completion - Approximate date of completion
 
-1. Backbone - 95%
+1. Backbone - 96%
 1.1. Engine....100%
 1.2. Mechanics.....90%
 Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is implemented.
+1.3. Saving system....100%
+1.4. In-game menu
+1.5. Credits menu
 
 2. Story - 60% - Apr 2020
 2.1. Early years....97%
@@ -30,16 +33,17 @@ A few branches still remain untouched
 50 out of 60 possible exploration stories are finished
 2.4. Ma'at events......20%
 Have to be written after the mess with resources is figured out for optimal balance and to eliminate the need to re-do it
-2.5. Resource management...20%
-Resource management has to be figured out during the test build. Every choice has an estimated effect already, but the optimal balance has to be found
 
 3. Seasonal activities
-3.1. Buildings......80%
+3.1. Buildings......60%
 The city screen is functioning; most buildings have descriptions and some effects have been added to them.
 3.2. Policies and technologies.......80%
 Most policies and technologies are written in full, but the exact effects each of them is going to have on the game is still to be decided upon in the test build
 
-Make it so that buildings, policies and storyline play/synergize nicely 
+4. Resource management
+4.1. Gluing everything together 
+2.5. Resource management...20%
+Resource management has to be figured out during the test build. Every choice has an estimated effect already, but the optimal balance has to be found
 
 5. Visuals......0%
 5.1. Artist found.......0%
@@ -52,6 +56,8 @@ Beautiful art on the steam page, website, etc. has to capture attention of peopl
 The user interface *works* and I have an idea of how it should look; however the artist that is going to work on the game might have better ideas.
 5.4. Drawings......0%
 All the art has to be drawn by the artist - backgrounds, characters, UI elements, etc.
+5.5. City map
+Policy and technology images
 5.4. Implementation.....0%
 All the art has to be implemented into the game
 5.5. Steam cards......0%
