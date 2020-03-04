@@ -18,8 +18,10 @@ Anyway, here it goes.
   <summary>Core Functionality................90%</summary>
 
 <ul>
-  <li>Engine</li>
-  <li>Mechanics
+  <li class="left">Engine</li>
+    <div class="right">100%</li>
+<div class="dotted"></div>
+  <li class="left">Mechanics
     <ul>
       <li>Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is implemented</li>
     </ul>
