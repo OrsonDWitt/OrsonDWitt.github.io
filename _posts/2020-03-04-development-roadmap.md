@@ -4,7 +4,7 @@ title:  "Egypt: Shattered Order — Development Roadmap"
 author: Orson
 categories: [ Egypt - Shattered Order ]
 tags: [roadmap, dev-log]
-image: assets/images/11.jpg
+image: assets/images/roadmap.jpg
 description: "The development roadmap for the upcoming interactive fiction/strategy videogame Egypt: Shattered Order"
 featured: true
 hidden: true
@@ -13,6 +13,17 @@ hidden: true
 I thought that a development roadmap is a great way to create a framework for more detailed updates in the future, so I sat down and thought of everything I've already done and what I'm planning to do. It's not a complete list — many technical things I could not even remember because I've been only focusing on the story recently. This goes on to show the value of such a roadmap and how it can keep me in line... and anxious, too; it helped me see that the storyline on which I've been working so hard did not even cover half of what I'm striving for with this game.
 
 Anyway, here it goes.
+
+<details>
+  <summary>
+| Core Functionality | 96% |
+|--------------------|-----|</summary>
+
+  1.1. Engine
+  1.2. Mechanics
+     * With some
+     * Sub bullets
+</details>
 
 Step - Completion - Approximate date of completion
 
@@ -33,8 +44,8 @@ Step - Completion - Approximate date of completion
 ### Mechanics.....90%
 Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is implemented.
 1.3. Saving system....100%
-1.4. In-game menu
-1.5. Credits menu
+1.4. In-game menu 50%
+1.5. Credits menu 0%
 
 2. Story - 60% - Apr 2020
 2.1. Early years....97%
