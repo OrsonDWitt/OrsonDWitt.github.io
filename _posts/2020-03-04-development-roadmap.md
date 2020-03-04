@@ -17,18 +17,12 @@ Anyway, here it goes.
 <details>
   <summary>Core Functionality................90%</summary>
 
-<ul>
-  <li class="left">Engine</li>
-    <div class="right">100%</div>
-<div class="dotted"></div>
-  <li class="left">Mechanics
-    <ul>
-      <li>Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is implemented</li>
-    </ul>
-  </li>
-  <li>Saving system</li>
-    <li>In-game menu</li>
-</ul>
+| Step | Completion % | Description |
+|--------------:|:------------:|----------------------------------------------------------------------------------------------------------------------------------------|
+| Engine | 100% | All systems go! |
+| Mechanics | 90% | Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is implemented. |
+| Saving System | 100% | -  |
+| In-Game Menu | 70% | - |
 
 </details>
 
