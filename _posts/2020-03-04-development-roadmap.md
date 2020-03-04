@@ -90,7 +90,7 @@ Anyway, here it goes.
 | Mac Release 	| 0% 	|
 | Achievements (<br><sub><span class="spoiler">From time to time, I think of achievements that can be implemented and write descriptions for them. 7/30 so far.</span>)</sub> 	| 23% 	|
 | Localization <sub>(<span class="spoiler">Some people expressed willingness to help localize the game for Russian audience.</span>)</sub> 	| 0% 	|
-| Credits Menu 	| 0% 	|
+| Credits 	| 0% 	|
 
 
 
