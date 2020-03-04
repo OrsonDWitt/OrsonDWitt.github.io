@@ -14,8 +14,7 @@ I thought that a development roadmap is a great way to create a framework for mo
 
 Anyway, here it goes.
 
-<details>
-  <summary>Core Functionality................90%</summary>
+<center> <h1>Core Functionality (90%)</h1> </center>
 
 | Step | Completion % | Description |
 |--------------:|:------------:|----------------------------------------------------------------------------------------------------------------------------------------|
@@ -24,7 +23,6 @@ Anyway, here it goes.
 | Saving System | 100% | -  |
 | In-Game Menu | 70% | - |
 
-</details>
 
 Step - Completion - Approximate date of completion
 
