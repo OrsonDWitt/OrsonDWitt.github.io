@@ -16,8 +16,8 @@ Anyway, here it goes.
 
 <center> <h1>Core Functionality (90%)</h1> </center>
 
-| Step 	| Completion % 	| Description 	|
-|--------------:	|:------------:	|--------------------------------------------------------------------------------------------------------------------------------------------	|
+| Step 	|  Completion %  	| Description 	|
+|---------------	|:--------------:	|--------------------------------------------------------------------------------------------------------------------------------------------	|
 | Engine 	| 100% 	| All systems go! 	|
 | Mechanics 	| 90% 	| Most game mechanics are currently functioning, but have not yet been tested with the story. <br>Bugs may appear as content is implemented. 	|
 | Saving System 	| 100% 	| -  	|
@@ -64,6 +64,7 @@ Most policies and technologies are written in full, but the exact effects each o
 2.5. Resource management...20%
 Resource management has to be figured out during the test build. Every choice has an estimated effect already, but the optimal balance is yet to be found.
 2.6. Balance
+Effects of policies, technologies, events, choices, and everything else have to be glued together so that game is balanced and fun to play for everyone
 
 5. Visuals......0%
 5.1. Artist found.......0%
