@@ -16,7 +16,7 @@ Anyway, here it goes.
 
 <center> <h2>Core Functionality (90%)</h2> </center>
 
-<b>| Step 	|  Completion  	|</b>
+| Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
 | Engine 	| 100% 	|
 | Mechanics<br>Most game mechanics are currently functioning, but have not yet been tested with the story.<br>Bugs may appear as content is added. 	| 90% 	|
