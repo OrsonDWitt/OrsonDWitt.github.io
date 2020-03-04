@@ -19,7 +19,7 @@ Anyway, here it goes.
 
 <ul>
   <li class="left">Engine</li>
-    <div class="right">100%</li>
+    <div class="right">100%</div>
 <div class="dotted"></div>
   <li class="left">Mechanics
     <ul>
@@ -46,7 +46,7 @@ Step - Completion - Approximate date of completion
 |        Achievements       |      23%     |          October 2020          |
 |        Steam cards        |      0%      |          October 2020          |
 
-# Backbone - 85%
+# Backbone - 90%
 ## Engine....100%
 ### Mechanics.....90%
 Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is implemented.
@@ -110,16 +110,3 @@ From time to time, I think of achievements that can be implemented and write des
 7.3. Localization.......0%
 There are some people willing to help with localizing the game for Russian audience
 7.4. Credits menu
-
-
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
-
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
-
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
-
-#### So how do we do spoilers?
-
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```
