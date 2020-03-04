@@ -19,7 +19,7 @@ Anyway, here it goes.
 | Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
 | Engine 	| 100% 	|
-| Mechanics<br><sub><span class="spoiler">Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is added.</span></sub> 	| 90% 	|
+| Mechanics<br><sub><span class="spoiler text-dark">Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is added.</span></sub> 	| 90% 	|
 | Saving System 	| 100% 	|
 | In-Game Menu 	| 70% 	|
 
@@ -27,10 +27,10 @@ Anyway, here it goes.
 
 | Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
-| Early years<br><span class="spoiler">46 out 47 branches completed, a few problematic places left.</span> 	| 97% 	|
-| Mechanics<br><sub><span class="spoiler">Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is added.</span></sub> 	| 90% 	|
-| Saving System 	| 100% 	|
-| In-Game Menu 	| 70% 	|
+| Early Years<br><span class="spoiler text-dark">46 out 47 branches completed, a few problematic places left.</span> 	| 97% 	|
+| Late Years<br><sub><span class="spoiler text-dark">A few branches still remain untouched.</span></sub> 	| 80% 	|
+| City Exploration<br><sub><span class="spoiler text-dark">50 out of 60 possible exploration stories finished.</span></sub> 	| 83% 	|
+| Ma'at Events<br><sub><span class="spoiler text-dark">Have to be written after the mess with resources is figured out for optimal balance and to eliminate the need to re-do it.</span></sub> 	| 20% 	|
 
 <center> <h2>Activities (70%)</h2> </center>
 
