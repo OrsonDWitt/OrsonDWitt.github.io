@@ -19,7 +19,7 @@ Anyway, here it goes.
 | Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
 | Engine 	| 100% 	|
-| Mechanics<br><sub>Most game mechanics are currently functioning, but have not yet been tested with the story.<br>Bugs may appear as content is added.</sub> 	| 90% 	|
+| Mechanics<br><span class="spoiler">Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is added.</span> 	| 90% 	|
 | Saving System 	| 100% 	|
 | In-Game Menu 	| 70% 	|
 
