@@ -15,12 +15,19 @@ I thought that a development roadmap is a great way to create a framework for mo
 Anyway, here it goes.
 
 <details>
-  <summary>Core Functionality................96%</summary>
+  <summary>Core Functionality................90%</summary>
 
-  1. Engine
-  2. Mechanics
-     * With some
-     * Sub bullets
+<ul>
+  <li>Engine</li>
+  <li>Mechanics
+    <ul>
+      <li>Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is implemented</li>
+    </ul>
+  </li>
+  <li>Saving system</li>
+    <li>In-game menu</li>
+</ul>
+
 </details>
 
 <details>
@@ -47,12 +54,12 @@ Step - Completion - Approximate date of completion
 |        Achievements       |      23%     |          October 2020          |
 |        Steam cards        |      0%      |          October 2020          |
 
-# Backbone - 96%
+# Backbone - 85%
 ## Engine....100%
 ### Mechanics.....90%
 Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is implemented.
 1.3. Saving system....100%
-1.4. In-game menu 50%
+1.4. In-game menu 70%
 
 2. Story - 60% - Apr 2020
 2.1. Early years....97%
