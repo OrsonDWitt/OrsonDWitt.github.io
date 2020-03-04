@@ -17,8 +17,18 @@ Anyway, here it goes.
 <details>
   <summary>Core Functionality................96%</summary>
 
-  1.1. Engine
-  1.2. Mechanics
+  1. Engine
+  2. Mechanics
+     * With some
+     * Sub bullets
+</details>
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
      * With some
      * Sub bullets
 </details>
@@ -43,7 +53,6 @@ Step - Completion - Approximate date of completion
 Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is implemented.
 1.3. Saving system....100%
 1.4. In-game menu 50%
-1.5. Credits menu 0%
 
 2. Story - 60% - Apr 2020
 2.1. Early years....97%
@@ -94,11 +103,14 @@ Talks ongoing with a professional musician
 Story has to be complemented with music in a fitting way.
 
 7. Extras
+7.1. Weighing of the heart....0%
+The judgement of Osiris; the final screen that, Telltale Games-like, shows the highlights of your game, and, Civilizion-like, makes up a name for you that best describes your reign. 
 7.1. Release for Mac....0%
 7.2. Achievements......23%
 From time to time, I think of achievements that can be implemented and write descriptions for them. 7/30 so far.
 7.3. Localization.......0%
-There are some people willing to help with localizing the game for Russian audience 
+There are some people willing to help with localizing the game for Russian audience
+7.4. Credits menu
 
 
 The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
