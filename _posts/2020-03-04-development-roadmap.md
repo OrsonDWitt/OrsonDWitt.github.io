@@ -19,7 +19,7 @@ Anyway, here it goes.
 | Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
 | Engine 	| 100% 	|
-| Mechanics<br><sub><span class="spoiler text-dark">Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is added.</span></sub> 	| 90% 	|
+| Mechanics<br><sub><span class="spoiler" style="color:#808080">Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is added.</span></sub> 	| 90% 	|
 | Saving System 	| 100% 	|
 | In-Game Menu 	| 70% 	|
 
@@ -27,12 +27,17 @@ Anyway, here it goes.
 
 | Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
-| Early Years<br><span class="spoiler text-dark">46 out 47 branches completed, a few problematic places left.</span> 	| 97% 	|
-| Late Years<br><sub><span class="spoiler text-dark">A few branches still remain untouched.</span></sub> 	| 80% 	|
-| City Exploration<br><sub><span class="spoiler text-dark">50 out of 60 possible exploration stories finished.</span></sub> 	| 83% 	|
-| Ma'at Events<br><sub><span class="spoiler text-dark">Have to be written after the mess with resources is figured out for optimal balance and to eliminate the need to re-do it.</span></sub> 	| 20% 	|
+| Early Years<br><span class="spoiler" style="color:#808080">46 out 47 branches completed, a few problematic places left.</span> 	| 97% 	|
+| Late Years<br><sub><span class="spoiler" style="color:#808080">A few branches still remain untouched.</span></sub> 	| 80% 	|
+| City Exploration<br><sub><span class="spoiler" style="color:#808080">50 out of 60 possible exploration stories finished.</span></sub> 	| 83% 	|
+| Ma'at Events<br><sub><span class="spoiler" style="color:#808080">Have to be written after the mess with resources is figured out for optimal balance and to eliminate the need to re-do it.</span></sub> 	| 20% 	|
 
 <center> <h2>Activities (70%)</h2> </center>
+
+| Step 	|  Completion  	|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
+| Buildings<br><span class="spoiler" style="color:#808080">The city screen is functioning; most buildings have descriptions and some effects have been added to them.</span> 	| 60% 	|
+| Policies & Technologies<br><sub><span class="spoiler" style="color:#808080">Most policies and technologies are finished, but the exact effects each of them is going to have on the game is still to be determined in the test build.</span></sub> 	| 80% 	|
 
 <center> <h2>Resource Management (10%)</h2> </center>
 
@@ -55,16 +60,6 @@ Step - Completion - Approximate date of completion
 |           Music           |      25%     |         September 2020         |
 |        Achievements       |      23%     |          October 2020          |
 |        Steam cards        |      0%      |          October 2020          |
-
-2. Story - 60% - Apr 2020
-2.1. Early years....97%
-46 out 47 branches completed, a few problematic places left
-2.2. Late years......80%
-A few branches still remain untouched
-2.3. City exploration.....83%
-50 out of 60 possible exploration stories are finished
-2.4. Ma'at events......20%
-Have to be written after the mess with resources is figured out for optimal balance and to eliminate the need to re-do it
 
 3. Seasonal activities
 3.1. Buildings......60%
