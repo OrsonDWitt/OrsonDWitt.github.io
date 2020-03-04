@@ -14,20 +14,22 @@ I thought that a development roadmap is a great way to create a framework for mo
 
 Anyway, here it goes.
 
-<center> <h1>Core Functionality (90%)</h1> </center>
+<center> <h2>Core Functionality (90%)</h2> </center>
 
-| Step 	|  Completion %  	| Description 	|
-|---------------	|:--------------:	|--------------------------------------------------------------------------------------------------------------------------------------------	|
+| Step 	|  Completion  	| Description 	|
+|---------------	|:------------:	|--------------------------------------------------------------------------------------------------------------------------------------------	|
 | Engine 	| 100% 	| All systems go! 	|
 | Mechanics 	| 90% 	| Most game mechanics are currently functioning, but have not yet been tested with the story. <br>Bugs may appear as content is implemented. 	|
 | Saving System 	| 100% 	| -  	|
 | In-Game Menu 	| 70% 	| - 	|
 
-<center> <h1>Story (70%)</h1> </center>
+<center> <h2>Story (70%)</h2> </center>
 
-<center> <h1>Activities (70%)</h1> </center>
+<center> <h2>Activities (70%)</h2> </center>
 
-<center> <h1>Resource Management (60%)</h1> </center>
+<center> <h2>Resource Management (10%)</h2> </center>
+
+<center> <h2>Resource Management (10%)</h2> </center>
 
 Step - Completion - Approximate date of completion
 
@@ -60,10 +62,9 @@ The city screen is functioning; most buildings have descriptions and some effect
 Most policies and technologies are written in full, but the exact effects each of them is going to have on the game is still to be decided upon in the test build
 
 4. Resource management
-4.1. Gluing everything together 
 2.5. Resource management...20%
 Resource management has to be figured out during the test build. Every choice has an estimated effect already, but the optimal balance is yet to be found.
-2.6. Balance
+2.6. Balance...0%
 Effects of policies, technologies, events, choices, and everything else have to be glued together so that game is balanced and fun to play for everyone
 
 5. Visuals......0%
