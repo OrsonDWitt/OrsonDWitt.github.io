@@ -15,9 +15,7 @@ I thought that a development roadmap is a great way to create a framework for mo
 Anyway, here it goes.
 
 <details>
-  <summary>
-| Core Functionality | 96% |
-|--------------------|-----|</summary>
+  <summary>Core Functionality................96%</summary>
 
   1.1. Engine
   1.2. Mechanics
