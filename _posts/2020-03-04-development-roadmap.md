@@ -19,11 +19,18 @@ Anyway, here it goes.
 | Step 	|  Completion  	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
 | Engine 	| 100% 	|
-| Mechanics<br><span class="spoiler">Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is added.</span> 	| 90% 	|
+| Mechanics<br><sub><span class="spoiler">Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is added.</span></sub> 	| 90% 	|
 | Saving System 	| 100% 	|
 | In-Game Menu 	| 70% 	|
 
 <center> <h2>Story (70%)</h2> </center>
+
+| Step 	|  Completion  	|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
+| Early years<br><span class="spoiler">46 out 47 branches completed, a few problematic places left.</span> 	| 97% 	|
+| Mechanics<br><sub><span class="spoiler">Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is added.</span></sub> 	| 90% 	|
+| Saving System 	| 100% 	|
+| In-Game Menu 	| 70% 	|
 
 <center> <h2>Activities (70%)</h2> </center>
 
