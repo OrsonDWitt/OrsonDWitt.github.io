@@ -16,13 +16,12 @@ Anyway, here it goes.
 
 Step - Completion - Approximate date of completion
 
-1. Backbone - 90%
+1. Backbone - 95%
 1.1. Engine....100%
 1.2. Mechanics.....90%
 Most game mechanics are currently functioning, but have not yet been tested with the story. Bugs may appear as content is implemented.
-1.3. Seasons
 
-2. Story - 80% - Apr 2020
+2. Story - 60% - Apr 2020
 2.1. Early years....97%
 46 out 47 branches completed, a few problematic places left
 2.2. Late years......80%
@@ -34,9 +33,9 @@ Have to be written after the mess with resources is figured out for optimal bala
 2.5. Resource management...20%
 Resource management has to be figured out during the test build. Every choice has an estimated effect already, but the optimal balance has to be found
 
-3. Seasons
+3. Seasonal activities
 3.1. Buildings......80%
-The city screen is functioning; most buildings have been decided upon.
+The city screen is functioning; most buildings have descriptions and some effects have been added to them.
 3.2. Policies and technologies.......80%
 Most policies and technologies are written in full, but the exact effects each of them is going to have on the game is still to be decided upon in the test build
 
