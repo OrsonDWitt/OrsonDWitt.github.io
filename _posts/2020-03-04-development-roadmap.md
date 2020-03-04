@@ -17,7 +17,7 @@ Anyway, here it goes.
 <center> <h2>Core Functionality (90%)</h2> </center>
 
 | Step 	|  Completion  	| Description 	|
-|---------------	|:------------:	|--------------------------------------------------------------------------------------------------------------------------------------------	|
+|---------------	|:------------:	|:------------------------------------------------------------------------------------------------------------------------------------------:	|
 | Engine 	| 100% 	| All systems go! 	|
 | Mechanics 	| 90% 	| Most game mechanics are currently functioning, but have not yet been tested with the story. <br>Bugs may appear as content is implemented. 	|
 | Saving System 	| 100% 	| -  	|
@@ -29,7 +29,9 @@ Anyway, here it goes.
 
 <center> <h2>Resource Management (10%)</h2> </center>
 
-<center> <h2>Resource Management (10%)</h2> </center>
+<center> <h2>Visuals (0%)</h2> </center>
+
+<center> <h2>Music (25%)</h2> </center>
 
 Step - Completion - Approximate date of completion
 
