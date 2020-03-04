@@ -61,7 +61,23 @@ Anyway, here it goes.
 
 <center> <h2>Music (25%)</h2> </center>
 
+| Step 	|  Completion  	|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
+| Get Composers on Board<br><span class="spoiler">Two great composers with experience in recreating Ancient Egyptian music have agreed to be a part of the project.</span> 	| 100% 	|
+| Fine-Tune 	| 0% 	|
+| Loop & Edit<br><sub><span class="spoiler">A professional might be able to do this.</span></sub> 	| 0% 	|
+| Implementation<br><sub><span class="spoiler">Story has to be complemented with music in a fitting way.</span></sub> 	| 0% 	|
+
 <center> <h2>Extras (4%)</h2> </center>
+
+| Step 	|  Completion  	|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------	|:------------:	|
+| Weighing of the Heart<br><span class="spoiler">The judgement of Osiris; the final screen that, Telltale Games-like, shows the highlights of your game, and, Civilizion-like, makes up a name for you that best describes your reign.</span> 	| 0% 	|
+| Mac Release 	| 0% 	|
+| Achievements<br><sub><span class="spoiler">From time to time, I think of achievements that can be implemented and write descriptions for them. 7/30 so far.</span></sub> 	| 23% 	|
+| Localization<br><sub><span class="spoiler">Some people expressed willingness to help localize the game for Russian audience.</span></sub> 	| 0% 	|
+| Credits Menu 	| 0% 	|
+
 
 Step - Completion - Approximate date of completion
 
@@ -76,23 +92,3 @@ Step - Completion - Approximate date of completion
 |           Music           |      25%     |         September 2020         |
 |        Achievements       |      23%     |          October 2020          |
 |        Steam cards        |      0%      |          October 2020          |
-
-
-6. Music - 50%
-6.1. Get composers on board...........100%
-Two great composers with experience in recreating Ancient Egyptian music have agreed to be a part of the project.
-6.2. Figure out the best-fitting tunes for the game........0%
-6.3. Loop & edit........0%
-Talks ongoing with a professional musician
-6.4. Implement to fit into the story............0%
-Story has to be complemented with music in a fitting way.
-
-7. Extras
-7.1. Weighing of the heart....0%
-The judgement of Osiris; the final screen that, Telltale Games-like, shows the highlights of your game, and, Civilizion-like, makes up a name for you that best describes your reign. 
-7.1. Release for Mac....0%
-7.2. Achievements......23%
-From time to time, I think of achievements that can be implemented and write descriptions for them. 7/30 so far.
-7.3. Localization.......0%
-Some people expressed willingness to help localize the game for Russian audience
-7.4. Credits menu.......0%
