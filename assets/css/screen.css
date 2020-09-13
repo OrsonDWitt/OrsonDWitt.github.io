@@ -330,7 +330,7 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: Cardo, serif;
+    font-family: Lato, serif;
     font-size: 1.1rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
@@ -701,7 +701,7 @@ h6 {
 .article-post h6 {
     font-weight: 700;
     margin-bottom: 1.5rem;
-    font-family: Cardo, serif;
+    font-family: Lato, serif;
 }
 
 .article-post img.shadow {
@@ -717,7 +717,7 @@ h6 {
 }
 */
 .layout-page .article-post {
-    font-family: Cardo, serif;
+    font-family: Lato, serif;
     font-size: 1.3rem;
 }
 
