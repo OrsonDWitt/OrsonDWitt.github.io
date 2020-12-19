@@ -41,8 +41,8 @@ h2 {
 	font-weight: 600;
 }
 
-.dropdown-menu-right .dropdown-item {text-align:center;background:#000}
-.dropdown-menu a {color:#000;}
+.dropdown-menu-right .dropdown-item {text-align:center;background:#525864;}
+.dropdown-menu a {color:#fff;}
 .dropdown-menu a:hover, .dropright .dropdown-menu a:focus {color:#fff}
 .books h3 {text-align:left}
 
@@ -54,7 +54,7 @@ a:hover, a:focus {color:#ff4500}
         color: #bdd8ff;
 }
 
-.dropdown-menu-right {min-width:4rem;}
+.dropdown-menu-right {min-width:4rem;border-top-left-radius:0;border-top-right-radius:0;}
 
 //language switch for smaller screens
 @media screen and (max-width: 991px){
