@@ -9,8 +9,8 @@
     .lunrsearchresult a:hover .title {text-decoration: underline;}
 </style>
 
-<button id="btn-info" type="button" data-toggle="collapse" data-target=".search-input" onclick="getElementById('btn-info').style.display = 'none'"><i class="fas fa-search"></i></button>
 <div class="container collapse search-input">
+    <button id="btn-info" type="button" data-toggle="collapse" data-target=".search-input" onclick="getElementById('btn-info').style.display = 'none'"><i class="fas fa-search"></i></button>
 <form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
     <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
 </form>
