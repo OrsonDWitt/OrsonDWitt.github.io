@@ -228,7 +228,7 @@ span.author-meta {
 
 span.post-date,
 span.post-read {
-    color: rgba(0, 0, 0, .44);
+    color: #000;
 }
 
 span.post-read-more {
