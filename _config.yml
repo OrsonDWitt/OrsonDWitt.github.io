@@ -23,7 +23,7 @@ authors:
   Orson:
     name: Orson
     display_name: Orson
-    avatar: 'assets/images/avatar.png'
+    #avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: author@orsondewitt.com
     twitter: https://twitter.com/OrsonDeWitt
