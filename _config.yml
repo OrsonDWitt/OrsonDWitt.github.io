@@ -8,6 +8,7 @@ logo-small: 'assets/images/logo-small.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/'
 include: ["_pages"]
+include: ["_posts"]
 permalink: /posts/:title/
 russian: 'https://ru.orsondewitt.com/'
 english: 'https://orsondewitt.com'
