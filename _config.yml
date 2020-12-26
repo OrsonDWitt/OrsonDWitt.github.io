@@ -7,7 +7,7 @@ logo-orangered: 'assets/images/logo-lightblue.png'
 logo-small: 'assets/images/logo-small.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/'
-include: ["_pages","_posts"]
+include: ["_pages"]
 permalink: /posts/:title/
 russian: 'https://ru.orsondewitt.com/'
 english: 'https://orsondewitt.com'
