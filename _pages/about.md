@@ -9,7 +9,7 @@ comments: false
 <div class="col-md-4 col-lg-3 pt-2">
 <div class="sticky-top sticky-top-80 text-sm-right text-center">
 <p class="text-center text-md-right"><img class="shadow" src="{{site.baseurl}}/assets/images/orson.jpg" alt="Orson De Witt" /></p>
-<p class="text-center text-xl-right"><a target="_blank" href="https://egypt.orcinusgames.com/" class="btn btn-danger mb-1">Gamedev</a> <a href="/" class="btn btn-warning mb-1">Author</a> <a href="" class="btn btn-info mb-1">Thermos</a></p>
+<p class="text-center text-xl-right"><a target="_blank" href="{{site.games}}" class="btn btn-danger mb-1">Gamedev</a> <a href="/" class="btn btn-warning mb-1">Author</a> <a href="" class="btn btn-info mb-1">Thermos</a></p>
 </div>
 </div>
 <div class="col-md-8 col-lg-6 pr-5">
@@ -24,5 +24,5 @@ Let Orson know if his stories are any good via e-mail: <a href="mailto:author@or
 </p>
 
 <h4>_____________________________</h4>
-<p>After having self-published 2 works, a novel and a novelette, I've decided to take it up a notch and redirect my efforts into game development, which I've been very passionate about for as long as I can remember. Hence, all my time is dedicated to the interactive fiction/strategy video game <strong><a target="_blank" href="https://egypt.orcinusgames.com/" title="Visit the website">Egypt: Shattered Order</a></strong>. If you wish to follow its development, I invite you to subscribe to the newsletter. Thanks!</p>
+<p>After having self-published 2 works, a novel and a novelette, I've decided to take it up a notch and redirect my efforts into game development, which I've been very passionate about for as long as I can remember. Hence, all my time is dedicated to the interactive fiction/strategy video game <strong><a target="_blank" href="{{site.games}}" title="Visit the website">Egypt: Shattered Order</a></strong>. If you wish to follow its development, I invite you to subscribe to the newsletter. Thanks!</p>
 {% include subscribe.html %}
