@@ -41,10 +41,9 @@ h2 {
 	font-weight: 600;
 }
 
-.dropdown-menu-right .dropdown-item {text-align:center;background-color: #525864;}
-.dropdown-menu a:hover, .dropright .dropdown-menu a:focus {color: #bdd8ff}
-.books .dropdown-menu a {color:#fff;}
-.books .dropdown-menu a:hover, .dropright .dropdown-menu a:focus {color:#b486b5}
+.dropdown-menu-right .dropdown-item {text-align:center; width:8rem;}
+.books .dropdown-menu a {color:#000;}
+.books .dropdown-menu a:hover, .dropright .dropdown-menu a:focus {color:#000}
 .books h3 {text-align:left}
 
 
