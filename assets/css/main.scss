@@ -42,8 +42,8 @@ h2 {
 }
 
 .dropdown-menu-right .dropdown-item {text-align:center;background-color: #525864;}
-.dropdown-menu-right a {color:#000};
-.dropdown-menu a {color:#055;}
+.dropdown-menu-right a {color:#fff}; /* language switch */
+.dropdown-menu a {color:#055;} /* buy button */
 .dropdown-menu a:hover, .dropright .dropdown-menu a:focus {color: #bdd8ff}
 .books .dropdown-menu a:hover, .dropright .dropdown-menu a:focus {color:#b486b5}
 .books h3 {text-align:left}
