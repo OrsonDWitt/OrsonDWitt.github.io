@@ -181,6 +181,10 @@ section.recent-posts {
     .main-content {
     min-height: 450px;
     }
+    .col-sm-6{
+    flex: 0 0 60%;
+    max-width: 60%;
+    }
 }
 
 .wrapfooter {
