@@ -7,10 +7,10 @@ comments: false
 	
 <div class="container-fluid">
 	<div class="row d-flex justify-content-center text-black">
-	<div class="col-xl-4 col-lg-4 col-12 col-sm-6 book-1">
+	<div class="col-xl-2 col-lg-4 col-12 col-sm-6 book-1">
 			<img src="{{ site.baseurl }}/assets/images/orcacover.png" alt="Orca Hunting School" style="max-height:580px;"/>
 		</div> 
-		<div class="col-xl-4 col-lg-6 col-12 col-sm-6" style="color:#bdd8ff; font-weight:bold;">
+		<div class="col-xl-4 col-lg-6 col-12 col-sm-6 book-2" style="color:#bdd8ff; font-weight:bold;">
 			<h1 class="text-left d-none d-sm-block">Orca Hunting School</h1>
 			<p style="font-size: 1.5rem; font-family: 'Kanit', sans-serif; 
    text-shadow:
