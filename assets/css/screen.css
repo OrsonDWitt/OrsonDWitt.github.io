@@ -484,6 +484,10 @@ blockquote {
         .text-center-sm {
     text-align: center !important;
     }
+    .col-sm-6 {
+        flex: 0 0 80%;
+        max-width: 80%;
+    }
 }
 
 .share,
