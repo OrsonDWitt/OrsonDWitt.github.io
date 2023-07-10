@@ -60,7 +60,7 @@ comments: false
 			<div class="col-xl-2 col-lg-2 col-12 col-sm-6 book-1">
 					<img src="{{ site.baseurl }}/assets/images/koscover.jpg" alt="Косатка. Школа охоты" style="max-height:580px;"/>
 				</div> 
-				<div class="col-xl-4 col-lg-4 col-12 col-sm-6 book-2">
+				<div class="col-xl-5 col-lg-5 col-12 col-sm-6 book-2">
 					<h1 class="text-left d-none d-sm-block" style="font-size: 3rem;
 		      font-weight: bold;
 		      color: #112d4e;
@@ -85,7 +85,7 @@ comments: false
 					 <button class="btn btn-lg dropdown-toggle" style="background-color: transparent;" type="button" id="languageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="/assets/ui/Russian.svg" height="auto" width="40px" alt="Russian"></button>
 					  <div class="dropdown-menu languageDropdown-menu text-dark">
 						  <li class="languageDropdown-item">
-							  <button class="btn btn-lg" style="background-color: transparent; border: 1px;" onclick="togglePanel()"><img src="/assets/ui/English.svg" height="24px" width="36px" alt="English"></button>
+							  <button class="btn btn-lg" style="background-color: transparent; border: 1px;" onclick="togglePanel()"><img src="/assets/ui/English.svg" height="auto" width="40px" alt="English"></button>
                         </li>
                     </div>
                 </div>
