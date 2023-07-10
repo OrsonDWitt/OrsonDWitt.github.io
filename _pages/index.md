@@ -12,7 +12,7 @@ comments: false
 		</div> 
 		<div class="col-xl-4 col-lg-6 col-12 col-sm-6 book-2" style="color:#bdd8ff; font-weight:bold;">
 			<h1 class="text-left d-none d-sm-block">Orca Hunting School</h1>
-			<p style="font-size: 1.5rem; font-family: 'Kanit', sans-serif; 
+			<p style="font-family: 'Kanit', sans-serif; 
    text-shadow:
        3px 3px 0 #000,
      -1px -1px 0 #000,  
