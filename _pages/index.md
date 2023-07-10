@@ -11,8 +11,12 @@ comments: false
 			<img src="{{ site.baseurl }}/assets/images/orcacover.png" alt="Orca Hunting School" style="max-height:580px;"/>
 		</div> 
 		<div class="col-xl-4 col-lg-6 col-12 col-sm-6 book-2" style="color:#000000; font-weight:bold;">
-			<h1 class="text-left d-none d-sm-block">Orca Hunting School</h1>
-			<p style="font-family: 'Kanit', sans-serif; 
+			<h1 class="text-left d-none d-sm-block" style="font-size: 3rem;
+      font-weight: bold;
+      color: #112d4e;
+      margin-bottom: 1.5rem;">Orca Hunting School</h1>
+			<p style="font-family: 'Kanit', sans-serif; font-size: 1.2rem;
+      line-height: 1.6;
    text-shadow:
        3px 3px 0 #000,
      -1px -1px 0 #000,  
