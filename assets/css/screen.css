@@ -13,6 +13,12 @@ License: https://www.wowthemes.net/freebies-license/
     max-width: 25%; 
     }
 }
+@media screen and (min-width:1200px) {
+    .col-xl-4 {
+    flex: 0 0 42%;
+    max-width: 42%; 
+    }
+}
 
 .mainheading {
     padding: 1rem 0rem;
