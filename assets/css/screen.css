@@ -119,10 +119,6 @@ section.recent-posts {
         padding-right: 0.8rem;
         padding-left: 0.8rem;
     }
-    .col-xl-4, .col-xl-2 {
-    flex: 0 0 42%;
-    max-width: 42%;
-        ]
 }
 
 .listfeaturedtag {
