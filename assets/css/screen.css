@@ -12,6 +12,10 @@ License: https://www.wowthemes.net/freebies-license/
     flex: 0 0 40%;
     max-width: 25%; 
     }
+    .col-mid-2 {
+        flex: 0 0 42%;
+        max-width: 42%; 
+        }
 }
 @media screen and (min-width:1200px) {
     .col-xl-4 {
