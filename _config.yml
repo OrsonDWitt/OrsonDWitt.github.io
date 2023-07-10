@@ -3,7 +3,7 @@ name: "Orson De Witt"
 title: "Orson De Witt"
 description: 'The website of the developer of Egypt: Shattered Order and the author of Orca Hunting School.'
 logo: 'assets/images/logo.png'
-logo-orangered: 'assets/images/logo-lightblue.png'
+logo-lightblue: 'assets/images/logo-lightblue.png'
 logo-small: 'assets/images/logo-small.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/'
