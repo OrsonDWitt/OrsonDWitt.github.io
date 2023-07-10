@@ -37,4 +37,12 @@ The sea lion rookery at Peninsula Valdes is a festive table laid for the chief h
 </div>				</div>
 		</div>
 	</div>
+	<div id="button-group-1" style="display: block;">
+		English
+	        <button class="btn btn-primary mt-3" onclick="togglePanel()">Russian</button>
+      </div>
+      <div id="button-group-2" style="display: none;">
+        Russian
+        <button class="btn btn-primary mt-3" onclick="togglePanel()">English</button>
+      </div>
 </div>
