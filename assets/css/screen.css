@@ -44,6 +44,10 @@ pre {
     transition: top 0.2s ease-in-out;
 }
 
+.bookframe-height {
+    align-items: center; height: 61vh;
+}
+
 .main-content {
     min-height: 300px;
 }
@@ -470,6 +474,9 @@ blockquote {
     .post-top-meta.authorpage {
         text-align: center;
     }
+    .bookframe-height {
+    align-items: center; height: 20vh;
+}
         .text-center-sm {
     text-align: center !important;
     }
