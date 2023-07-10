@@ -8,7 +8,7 @@ comments: false
 <div class="container-fluid">
     <div id="english-div" style="display: block;">
         <div class="row d-flex justify-content-center text-black bookframe-height">
-            <div class="col-xl-2 col-lg-2 col-12 col-sm-6 col-mid-1 book-1">
+            <div class="col-xl-2 col-lg-2 col-12 col-sm-6 book-1">
                 <img src="{{ site.baseurl }}/assets/images/orcacover.png" alt="Orca Hunting School" style="max-height:580px;"/>
             </div> 
             <div class="col-xl-4 col-lg-4 col-12 col-sm-6 col-mid-2 book-2">
@@ -57,7 +57,7 @@ comments: false
 
 <div id="russian-div" style="display: none;">
 			<div class="row d-flex justify-content-center text-black" style="align-items: center; height: 61vh;">
-			<div class="col-xl-2 col-lg-2 col-12 col-sm-6 col-mid-1 book-1">
+			<div class="col-xl-2 col-lg-2 col-12 col-sm-6 book-1">
 					<img src="{{ site.baseurl }}/assets/images/koscover.jpg" alt="Косатка. Школа охоты" style="max-height:580px;"/>
 				</div> 
 				<div class="col-xl-5 col-lg-5 col-12 col-sm-6 col-mid-2 book-2">
