@@ -10,7 +10,7 @@ License: https://www.wowthemes.net/freebies-license/
 @media screen and (max-width:2000px) {
     .col-xl-2 {
     flex: 0 0 40%;
-    max-width: 40%; 
+    max-width: 25%; 
     }
 }
 
