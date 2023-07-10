@@ -119,6 +119,14 @@ section.recent-posts {
         padding-right: 0.8rem;
         padding-left: 0.8rem;
     }
+    .col-mid-1 {
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+    .col-mid-2 {
+        flex: 0 0 42%;
+        max-width: 42%;
+    }
 }
 
 .listfeaturedtag {
