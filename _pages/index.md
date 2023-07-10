@@ -58,7 +58,7 @@ comments: false
 <div id="russian-div" style="display: none;">
 			<div class="row d-flex justify-content-center text-black" style="align-items: center; height: 61vh;">
 			<div class="col-xl-2 col-lg-2 col-12 col-sm-6 book-1">
-					<img src="{{ site.baseurl }}/assets/images/koscover.png" alt="Косатка. Школа охоты" style="max-height:580px;"/>
+					<img src="{{ site.baseurl }}/assets/images/koscover.jpg" alt="Косатка. Школа охоты" style="max-height:580px;"/>
 				</div> 
 				<div class="col-xl-4 col-lg-4 col-12 col-sm-6 book-2">
 					<h1 class="text-left d-none d-sm-block" style="font-size: 3rem;
