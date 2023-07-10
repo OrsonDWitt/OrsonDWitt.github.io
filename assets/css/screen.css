@@ -470,6 +470,9 @@ blockquote {
     .post-top-meta.authorpage {
         text-align: center;
     }
+        .text-center-sm {
+    text-align: center !important;
+    }
 }
 
 .share,
@@ -849,10 +852,10 @@ iframe {
     .share {
         margin-top: 30px;
     }
-}
-
-.book-1 {
+    .book-1 {
     display: none;
+    }
+
 }
 
 .card .img-fluid {
