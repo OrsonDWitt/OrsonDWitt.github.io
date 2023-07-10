@@ -6,7 +6,7 @@ comments: false
 ---
 	
 <div class="container-fluid">
-	<div id="english-div" style="display: none;">
+	<div id="english-div" style="display: block;">
 		
 			<div class="row d-flex justify-content-center text-black" style="align-items: center; height: 61vh;">
 			<div class="col-xl-2 col-lg-2 col-12 col-sm-6 book-1">
