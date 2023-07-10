@@ -5,8 +5,8 @@ permalink: /
 comments: false
 ---
 	
-<div class="container-fluid" style="color:#000000; mix-blend-mode: difference;">
-	<div class="row d-flex justify-content-center text-light">
+<div class="container-fluid" style="mix-blend-mode: difference;">
+	<div class="row d-flex justify-content-center text-light" style="color:#000000;">
 <!--		<div class="col-xl-4 col-lg-4 col-12 col-sm-6 book-1">
 			<img src="{{ site.baseurl }}/assets/images/orcacover.png" alt="Orca Hunting School" style="max-height:580px;"/>
 		</div> -->
