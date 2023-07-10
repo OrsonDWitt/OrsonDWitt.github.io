@@ -171,6 +171,9 @@ section.recent-posts {
         height: auto;
         width: 100%;
     }
+    .main-content {
+    min-height: 450px;
+    }
 }
 
 .wrapfooter {
