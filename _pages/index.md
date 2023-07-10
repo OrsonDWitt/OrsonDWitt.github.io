@@ -12,7 +12,7 @@ comments: false
 		</div> -->
 		<div class="col-xl-8 col-lg-6 col-12 col-sm-6" style="color:#000; font-weight:bold;">
 			<h1 class="text-left d-none d-sm-block">Orca Hunting School</h1>
-			<p>
+			<p style="font-family: 'Kanit', sans-serif;">
 The sea lion rookery at Peninsula Valdes is a festive table laid for the chief hunters of the ocean. Year after year it attracts groups of orcas for an easy hunt. This time, for one of the calves, comes the time to learn the perilous practice of hunting on land. But what kind of price will he have to pay for his desire to master this skill?
 			</p>
 					<div class="btn-group dropright">
