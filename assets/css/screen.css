@@ -851,6 +851,10 @@ iframe {
     }
 }
 
+.book-1 {
+    display: none;
+}
+
 .card .img-fluid {
     width: 100%;
 }
