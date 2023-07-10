@@ -1,7 +1,7 @@
 <script>
   function togglePanel() {
-    var panel1 = document.getElementById("button-group-1");
-    var panel2 = document.getElementById("button-group-2");
+    var panel1 = document.getElementById("english-div");
+    var panel2 = document.getElementById("russian-div");
 
     if (panel1.style.display === "none") {
       panel1.style.display = "block";
@@ -52,7 +52,7 @@
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <b><a class="nav-link" href="{{ site.games }}" title="Games created by Orson">Orcinus Games</a></b>
+                <b><a class="nav-link" href="{{ site.games }}">Orcinus Games</a></b>
                 </li>
 
                 <li class="nav-item">
