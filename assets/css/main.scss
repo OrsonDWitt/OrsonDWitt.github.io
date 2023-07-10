@@ -40,10 +40,11 @@ h2 {
 	font-weight: 600;
 }
 
+.languageDropdown-item: {text-align:center; background: transparent;}
 .dropdown-menu-right .dropdown-item {text-align:center; width:8rem;background-color: #525864;}
 .books .dropdown-menu a {color:#000;}
 .books .dropdown-menu a:hover, .dropright .dropdown-menu a:focus {color:#000}
-.dropdown-menu a:hover, .dropright .dropdown-menu a:focus {color: #bdd8ff}
+.languageDropdown-item a:hover, .dropdown-menu a:hover, .dropright .dropdown-menu a:focus {color: #bdd8ff}
 .mediumnavigation .dropdown-menu a {color:#fff;}
 .mediumnavigation .dropdown-menu a:hover, .mediumnavigation .dropdown-menu a:focus {color:#b486b5}
 .books h3 {text-align:left}
