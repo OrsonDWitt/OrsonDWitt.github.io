@@ -18,11 +18,9 @@ comments: false
 			<p style="font-family: 'Kanit', sans-serif; font-size: 1.2rem;
       line-height: 1.6;
    text-shadow:
-       3px 3px 0 #bdd8ff,
-     -1px -1px 0 #bdd8ff,  
-      1px -1px 0 #bdd8ff,
-      -1px 1px 0 #bdd8ff,
-       1px 1px 0 #bdd8ff;">
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000;">
 The sea lion rookery at Peninsula Valdes is a festive table laid for the chief hunters of the ocean. Year after year it attracts groups of orcas for an easy hunt. This time, for one of the calves, comes the time to learn the perilous practice of hunting on land. But what kind of price will he have to pay for his desire to master this skill?
 			</p>
 					<div class="btn-group dropright">
