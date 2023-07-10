@@ -34,8 +34,8 @@ The sea lion rookery at Peninsula Valdes is a festive table laid for the chief h
 	<li class="dropdown-item">
 	  <a href="https://www.scribd.com/book/330029998/Orca-Hunting-School" rel="nofollow" target="_blank">Scribd</a>
 	  </li>
-</div></div>
-			<button class="btn btn-lg dropdown-toggle" style="background-color: transparent;" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="/assets/ui/English.svg" height="24px" width="36px" alt="English"></button>
+</div>
+			<button class="btn btn-lg dropdown-toggle" style="background-color: transparent;" type="button" class="" aria-labelledby="navbarDropdownMenuLink"><img src="/assets/ui/English.svg" height="24px" width="36px" alt="English"></button>
 			  <div class="dropdown-menu text-dark">
 				<div id="button-group-1" style="display: block;">
 				<button class="btn btn-primary mt-3" onclick="togglePanel()">Russian</button>
@@ -44,6 +44,5 @@ The sea lion rookery at Peninsula Valdes is a festive table laid for the chief h
 				<button class="btn btn-primary mt-3" onclick="togglePanel()">English</button>
 			      </div>
 			  </div>	
-		</div>
 	</div>
 </div>
