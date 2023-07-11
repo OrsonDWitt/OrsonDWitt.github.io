@@ -62,10 +62,12 @@
                 <a class="nav-link" href="{{ site.baseurl }}/">Books</a>
                 </li>
 		{% endif %}
-		    
+
+		{% if page.url != "/about" %}
                 <li class="nav-item">
                 <a class="nav-link" href="{{ site.baseurl }}/about">About Me</a>
                 </li>
+	    	{% endif %}	
 
 		<li class="nav-item">
                 <a class="nav-link" href="{{ site.baseurl }}/hire">Hire Me</a>
