@@ -66,7 +66,7 @@ pre {
 }
 
 .main-content {
-    min-height: 300px;
+    min-height: 500px;
 }
 
 .site-content {
@@ -193,7 +193,7 @@ section.recent-posts {
         width: 100%;
     }
     .main-content {
-    min-height: 450px;
+    min-height: 550px;
     }
     .col-sm-6{
     flex: 0 0 50%;
