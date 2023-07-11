@@ -512,7 +512,7 @@ blockquote {
 }
         .text-center-sm {
     text-align: center !important;
-    font-size: 1.6 rem;
+    font-size: 1.6rem !important;
     }
     .col-sm-6 {
         flex: 0 0 80%;
