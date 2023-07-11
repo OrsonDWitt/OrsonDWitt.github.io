@@ -41,7 +41,7 @@ comments: false
                 </div>
                 <div class="btn-group dropdown">
                     <button class="btn btn-lg dropdown-toggle" style="background-color: transparent;" type="button" id="languageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <img src="/assets/ui/English.svg" height="24px" width="36px" alt="English">
+                        <img src="/assets/ui/English.svg" height="20px" width="30px" alt="English">
                     </button>
                     <div class="dropdown-menu languageDropdown-menu text-dark">
                         <li class="languageDropdown-item">
@@ -70,7 +70,7 @@ comments: false
 		Лежбище морских львов на полуострове Вальдес — словно накрытый праздничный стол для главных охотников океана. Из года в год к нему сплываются группы косаток в погоне за лёгкой добычей. На сей раз и для одного из детёнышей наступает время научиться опасному искусству охоты на суше. Но какую цену ему придётся заплатить за это мастерство?
 					</p>
 	<div class="btn-group dropright">
-	<button class="btn btn-lg btn-success dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">160₽ / 1.6€</button>			
+	<button class="btn btn-lg btn-success dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">1.60 €</button>			
 		  <div class="dropdown-menu text-dark">
 			  <li class="dropdown-item">
 			  <a href="https://ridero.ru/books/kosatka_shkola_okhoty/" rel="nofollow" target="_blank">Ridero</a>
