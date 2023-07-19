@@ -5,18 +5,19 @@ permalink: /egypt
 comments: false
 ---
 
-<div class="container" style="background-color:#FCBB59;">
-<div class="row text-md-center text-lg-center text-xl-center">
-    <div class="col-xs-10 col-sm-10 mx-auto ml-xs-0 ml-sm-0">
-	<h4 class="font-weight-bold text-h0">What would it be like to walk in the sandals of a Pharaoh?</h4>
-	<p class="col20">You won't know until you unite Egypt — only the rulers of both Upper and Lower Egypt can be called as such, and, as of now, Egypt is shattered! Take the reins of this chariot on its way to the otherworld, restore the order, and build the great pyramid to preserve your legacy! But it's not going to be easy. The priests are breathing down your neck, the enemies are on a war footing, the noblemen are out of line, and, on top of all that, the God's Wife must be chosen swiftly, lest no heir is left to the throne...
-	    </p><p class="col20">Can you guide Egyptians through all the hardships to prosperity and power? Will your heart stay pure and uncorrupted so that your soul is granted access to the heavenly realms, to dwell with the gods?</p>
-		       <!-- <h5 class="text-h0">Sign up to find out first-hand!</h5> -->
-	    <h5 class="text-h0">Click (hover to learn more) on your favorite icon to make sure you don't miss the chance to find out first-hand!</h5>
-    </div> 
-</div>
-</div>
-	  
+<div style="background-color:#fde473;">
+	<div class="container">
+	<div class="row text-md-center text-lg-center text-xl-center">
+	    <div class="col-xs-12 col-sm-10 mx-auto ml-xs-0 ml-sm-0">
+		<h4 class="font-weight-bold text-h0">What would it be like to walk in the sandals of a Pharaoh?</h4>
+		<p class="col20">You won't know until you unite Egypt — only the rulers of both Upper and Lower Egypt can be called as such, and, as of now, Egypt is shattered! Take the reins of this chariot on its way to the otherworld, restore the order, and build the great pyramid to preserve your legacy! But it's not going to be easy. The priests are breathing down your neck, the enemies are on a war footing, the noblemen are out of line, and, on top of all that, the God's Wife must be chosen swiftly, lest no heir is left to the throne...
+		    </p><p class="col20">Can you guide Egyptians through all the hardships to prosperity and power? Will your heart stay pure and uncorrupted so that your soul is granted access to the heavenly realms, to dwell with the gods?</p>
+			       <!-- <h5 class="text-h0">Sign up to find out first-hand!</h5> -->
+		    <h5 class="text-h0">Click (hover to learn more) on your favorite icon to make sure you don't miss the chance to find out first-hand!</h5>
+	    </div> 
+	</div>
+	</div>
+		  
 	    <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 col-xs-12 mx-auto text-center">
@@ -61,33 +62,6 @@ comments: false
     </div>
   </div>
 
-<!--
-            <div class="container">
-                <div class="row text-md-center text-lg-center text-xl-center col-auto">
-               <div class="subscription-form-input col-xs-12 mx-auto ml-xs-0 ml-sm-0">         
-
-	    <form id="sender-subscribe" target="_blank" action="https://app.sender.net/forms/sender_subscription/2812/1d98ce24" method="POST">
-	<div class="subscription-form-fields" id="subscription-form-fields">
-     <input name="email" type="email" class="email_type emai" id="email" data-label="E-mail" maxlength="100" placeholder="Your e-mail" required>
-		    <button type="submit" id="submit-button"><i class="fas fa-arrow-circle-right"></i> </button>
-                                                                                                </div>
-                        						                            <br>
-                            <div id ="recaptcha-failed-message" hidden class="subscription-thank-you">Recaptcha failed, try again!</div>
-                            <div class="g-recaptcha" data-callback="submitGR" style="transform: scale(0.68); -webkit-transform: scale(0.68); transform-origin: 0 0; -webkit-transform-origin: 0 0;" data-sitekey="6Lek36IZAAAAAHLJFLZbOmRMQNnwZSeCuKmTG0XM"></div>
-				
-
-                    </form>
-                                <span class="sender-link-wrapper">
-                    <a class="sender-link" href="http://sender.net" title="Email marketing services" rel=”nofollow”>
-                        <img src="https://app.sender.net/favicon.png" alt="Provided by">
-                        <span>Sender.net email marketing</span>
-                    </a>
-                </span>
-                                    </div>
-    </div>
-</div>          
---->
-
   <div class="container">
                 <div class="row mt-3"> 
                     <div class="col-md-4 cpad mb-3 mb-md-5 cpad"> 
@@ -122,3 +96,4 @@ comments: false
                     </div>                     
 	  	</div>
 	</div>
+</div>
