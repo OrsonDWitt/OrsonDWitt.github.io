@@ -114,7 +114,11 @@
 
 <!-- Content
 ================================================== -->
+{% if page.url == "/egypt" %}
+<div class="main-content" style="background-color: #eecc6c">
+{% else %}
 <div class="main-content">
+{% endif %}
     {{ content }}
 	<!-- when you have posts, copy to the end of each post
 {% if page.layout == 'post' %}
