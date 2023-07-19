@@ -5,6 +5,12 @@ permalink: /egypt
 comments: false
 ---
 
+<!--
+
+title: Egypt: Shattered Order — a narrative adventure
+description: Egypt: Shattered Order is a branching narrative adventure and strategy game with factual history at its core. For PC and Mac.
+Haikei colors: FDE6C3, fabf69, e26353, layered waves
+-->
 
 <div>
 	<div class="container">
