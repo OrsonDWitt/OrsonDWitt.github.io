@@ -67,7 +67,7 @@ comments: false
                     <div class="col-md-4 cpad mb-3 mb-md-5 cpad"> 
                           <div class="card py-4 h-100"> 
                              <div class="card-body text-center"> 
-                                <i class="fa-solid fa-scroll bigicon pt-3 pb-3"></i> 
+                                <i class="fa-solid fa-scroll fa-lg bigicon pt-3 pb-3"></i>
                                 <h4 class="text-uppercase medium m-3 text-gold">HISTORICAL REALISM</h4> 
                                 <hr class="my-3" color="#FBC403"> 
                                 <div class="small text-gold">Dive into an Ancient Egyptian setting head-first and emerge with a broad spectrum of new questions and answers regarding this incredible civilization!</div>                                 
