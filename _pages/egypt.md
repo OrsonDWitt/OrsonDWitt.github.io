@@ -1,15 +1,12 @@
 ---
 layout: books
-title: Egypt
-description: Egypt Shattered Order is a branching narrative adventure and strategy game with factual history at its core. For PC and Mac.
+title: 'Egypt: Shattered Order — a narrative adventure'
+description: 'Egypt: Shattered Order is a branching narrative adventure and strategy game with factual history at its core. For PC and Mac.'
 permalink: /egypt
 comments: false
 ---
 
 <!--
-
-title: Egypt: Shattered Order — a narrative adventure
-
 Haikei colors: FDE6C3, fabf69, e26353, layered waves
 -->
 
