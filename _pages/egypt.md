@@ -20,7 +20,7 @@ comments: false
 
   <div class="container dunes.features" style="display: block;">
 
-<div class="row" style="display: flex; justify-content: center; align-items: center;"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel1()"><u>Features</u></button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()">FAQ</button></div></div>
+<div class="row" style="display: flex; justify-content: center; align-items: center;"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="toggleFeatures()"><u>Features</u></button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;"  onclick="toggleFAQ()">FAQ</button></div></div>
 
                 <div class="row mt-3"> 
                     <div class="col-md-4 cpad mb-3 mb-md-5 cpad"> 
@@ -64,7 +64,7 @@ comments: false
 			    <div class="accordion-item">
 			      <a>When and where can I get the game?</a>
 			      <div class="content">
-			        <p>The game is going to come out on Mac and PC, hopefully this year. The exact release date is going to be communicated through <a class="inherit" href="https://discord.gg/amMNE4x" rel="nofollow">Discord</a>, <a class="inherit" href="https://www.reddit.com/r/OrcinusGames">Reddit</a>, E-mail and other channels.</p>
+			        <p>The game is going to come out on Mac and PC, hopefully this year. The exact release date is going to be communicated through <a class="inherit" href="{{ site.discord }}" rel="nofollow">Discord</a>, <a class="inherit" href="https://www.reddit.com/r/OrcinusGames">Reddit</a>, and other channels.</p>
 			      </div>
 			    </div>
 			    <div class="accordion-item">
@@ -83,13 +83,13 @@ comments: false
 			      <a>It surely can't be historically accurate, can it?</a>
 			      <div class="content">
 			       <p>Even though I do allow myself certain liberties in interpretation and representation of Ancient Egyptian history due to the nature of the genre, the game's script is written with scholarly works in mind. Still, it is evident that it's a thin line between a fun game and an authentic game, and that is exactly why your input is critical. 
-			        <br>Orcinus Games accepts all tips, suggestions and criticisms, and in case you would like to help and cross-check historical authenticity, feel free to <a class="inherit" href="/contact">contact me</a>.</p>
+			        <br>I accept all tips, suggestions and criticisms, and in case you would like to help and cross-check historical authenticity, feel free to <a class="inherit" href="mailto:dev@orsondewitt.com">contact me</a>.</p>
 			      </div>
 			    </div>
 			       <div class="accordion-item">
-			      <a>Who stands behind Orcinus Games?</a>
+			      <a>Are you doing this all by yourself?</a>
 			      <div class="content">
-			        <p>In short, Orcinus Games is a one-man developer team, meaning that everything from the initial outline of the game to design, programming, marketing and sculpting the final build is handled by me, <a class="inherit" href="/contact">Orson De Witt</a>. I love <a class="inherit" href="http://orsondewitt.com">writing about orcas</a>, imagining alternative history worlds,  <a class="inherit" href="https://discord.gg/amMNE4x" rel="nofollow">making quizzes</a>, and many other things, but currently, most of my time (excluding my full-time job) is dedicated to making this game happen. I wish there were more hours in a day.</p>
+			        <p>Yes, everything from the initial outline of the game to design, programming, marketing and sculpting the final build is handled by me. I I love <a class="inherit" href="http://orsondewitt.com">writing about orcas</a>, imagining alternative history worlds,  <a class="inherit" href="https://discord.gg/amMNE4x" rel="nofollow">making quizzes</a>, and many other things, but currently, most of my time (excluding my full-time job) is dedicated to making this game happen. I wish there were more hours in a day.</p>
 			      </div>
 			    </div>
 			    <div class="accordion-item">
