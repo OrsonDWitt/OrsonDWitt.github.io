@@ -62,6 +62,9 @@ comments: false
     </div>
   </div>
 
+<div class="row mt-3"><button class="btn btn-lg" style="background-color: transparent; border: 1px;" onclick="togglePanel()">Features</button> | <button class="btn btn-lg" style="background-color: transparent; border: 1px;" onclick="togglePanel()">FAQ</button></div>
+
+
   <div class="container dunes.features" style="display: block;">
                 <div class="row mt-3"> 
                     <div class="col-md-4 cpad mb-3 mb-md-5 cpad"> 
