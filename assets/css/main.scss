@@ -18,6 +18,89 @@ h2 {
 	padding-top:1em;
 }
 
+//egypt faq
+.accordion a:not(.inherit) {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+  padding: 1rem 3rem 1rem 1rem;
+  color: #fff;
+  font-size: 1.15rem;
+  font-weight: 400;
+  border-bottom: 1px solid #e5e5e5;
+	margin: auto; 
+}
+.accordion a:hover:not(.inherit),
+.accordion a:hover:not(.inherit)::after {
+  cursor: pointer;
+  color: #fdb245;
+}
+.accordion a:hover:not(.inherit)::after {
+  border: 1px solid #fdb245;
+}
+.accordion a.active:not(.inherit) {
+  color: #fdb245;
+  border-bottom: 1px solid #fdb245;
+}
+.accordion a:not(.inherit)::after {
+  font-family: "Font Awesome 5 Free";
+  content: "\f078";
+  position: absolute;
+  float: right;
+  right: 1rem;
+  font-size: 1rem;
+  color: #fdb245;
+  width: 30px;
+  height: 30px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  border: 1px solid #7288a2;
+  text-align: center;
+ font-weight: 900; 
+  margin: auto; /* Important */ 
+padding-top: 2px;
+}
+.accordion a.active:not(.inherit)::after {
+  font-family: "Font Awesome 5 Free";
+  content: "\f077";
+  color: #fdb245;
+  border: 1px solid #fdb245;
+	font-weight: 900; 
+}
+.accordion .content {
+  opacity: 0;
+  padding: 0 1rem;
+  max-height: 0;
+  border-bottom: 1px solid #e5e5e5;
+  overflow: hidden;
+  clear: both;
+  -webkit-transition: all 0.2s ease 0.15s;
+  -o-transition: all 0.2s ease 0.15s;
+  transition: all 0.2s ease 0.15s;
+}
+.accordion .content p {
+  font-size: 1rem;
+  font-weight: 300;
+}
+.accordion .content.active {
+  opacity: 1;
+  padding: 1rem;
+  max-height: 100%;
+  -webkit-transition: all 0.35s ease 0.15s;
+  -o-transition: all 0.35s ease 0.15s;
+  transition: all 0.35s ease 0.15s;
+	border-bottom: #fdb245;
+}
+
 .dunes {background-color: #fff; background-image: url('/assets/ui/dunes.svg'); background-repeat: repeat; background-position: center center; background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
