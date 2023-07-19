@@ -43,6 +43,22 @@
             panel2.style.display = "block";
         }
 </script>
+    <script>
+        // Get all the accordion links and contents
+const accordionLinks = document.querySelectorAll(".accordion-link");
+const accordionContents = document.querySelectorAll(".content");
+
+// Attach a click event listener to each accordion link
+accordionLinks.forEach((link, index) => {
+  link.addEventListener("click", function() {
+    // Toggle the active class on the clicked link
+    this.classList.toggle("active");
+    
+    // Toggle the active class on the corresponding content
+    accordionContents[index].classList.toggle("active");
+  });
+});
+    </script>
 
     
 </head>
