@@ -9,63 +9,19 @@ comments: false
 	<div class="container">
 	<div class="row text-md-center text-lg-center text-xl-center" style="color:#4b1629">
 	    <div class="col-xs-8 col-md-8 col-xl-8 mx-auto ml-xs-0" style="font-size: 1.1rem; align:center;">
-		<h4 class="font-weight-bold text-h0" style="font-size: 1.4rem;">What would it be like to walk in the sandals of a Pharaoh?</h4>
-		<p>You won't know until you unite Egypt — only the rulers of both Upper and Lower Egypt can be called as such, and, as of now, Egypt is shattered! Take the reins of this chariot on its way to the otherworld, restore the order, and build the great pyramid to preserve your legacy! But it's not going to be easy. The priests are breathing down your neck, the enemies are on a war footing, the noblemen are out of line, and, on top of all that, the God's Wife must be chosen swiftly, lest no heir is left to the throne...
+		<h4 class="font-weight-bold text-h0" style="font-size: 1.8rem;">What would it be like to walk in the sandals of a Pharaoh?</h4>
+		<p>You won't know until you unite Egypt; only the rulers of both Upper and Lower Egypt can be called such, and, as of now, Egypt is shattered! Take the reins of this chariot on its way to the otherworld, restore the order, and build the greatest pyramid to preserve your legacy! But it's not going to be easy. The priests are breathing down your neck, the enemies are on a war footing, the noblemen are out of line, and, on top of all that, the God's Wife must be chosen swiftly, lest no heir is left to the throne...
 		    </p><p>Can you guide Egyptians through all the hardships to prosperity and power? Will your heart stay pure and uncorrupted so that your soul is granted access to the heavenly realms, to dwell with the gods?</p>
 			       <!-- <h5 class="text-h0">Sign up to find out first-hand!</h5> -->
-		    <h5 class="text-h0">Click (hover to learn more) on your favorite icon to make sure you don't miss the chance to find out first-hand!</h5>
+		    <h5 class="text-h0" title="Steam will send you an email when the game is released"><a href="https://store.steampowered.com/developer/orcinusgames/">Follow on Steam to find out first-hand!</a></h5>
 	    </div> 
 	</div>
 	</div>
-		  
-<div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-10 col-xs-12 mx-auto text-center" style="color:#4b1629">
-        <ul class="list-inline text-center">
-          {% if site.steam_creator_page %}
-          <li class="list-inline-item">
-            <a href="{{ site.steam_creator_page }}">
-              <span class="fa-stack fa-lg">
-                <i class="fab fa-steam-square fa-stack-2x fa-5x" title="Have Steam send you an email when the game is out"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.subreddit %}
-          <li class="list-inline-item">
-            <a href="https://www.reddit.com/r/{{ site.subreddit }}">
-              <span class="fa-stack fa-lg">
-                <i class="fab fa-reddit-square fa-stack-2x fa-5x" title="Join the subreddit to follow development"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.discord %}
-          <li class="list-inline-item">
-            <a href="{{ site.discord }}">
-              <span class="fa-stack fa-lg">
-                <i class="fab fa-discord fa-stack-2x fa-5x" title="Join the Discord server to follow development"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.youtube %}
-          <li class="list-inline-item">
-            <a href="{{ site.youtube }}">
-              <span class="fa-stack fa-lg">
-                <i class="fab fa-youtube-square fa-stack-2x fa-5x" title="Subscribe and click on the bell to have Youtube notify you when the first trailer is out"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-        </ul>      </div>
-    </div>
-  </div>
-
-<div class="row mt-3 text-center"><button class="btn btn-lg" style="background-color: transparent; border: 1px;" onclick="togglePanel()">Features</button> | <button class="btn btn-lg" style="background-color: transparent; border: 1px;" onclick="togglePanel()">FAQ</button></div>
-
 
   <div class="container dunes.features" style="display: block;">
+	  
+<div class="row text-center align-center"><button class="btn btn-lg text-decoration-underline" style="background-color: transparent; border: 1px;" onclick="togglePanel()">Features</button> | <button class="btn btn-lg" style="background-color: transparent; border: 1px;" onclick="togglePanel()">FAQ</button></div>
+
                 <div class="row mt-3"> 
                     <div class="col-md-4 cpad mb-3 mb-md-5 cpad"> 
                           <div class="card py-4 h-100"> 
