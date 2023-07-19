@@ -5,7 +5,7 @@ permalink: /egypt
 comments: false
 ---
 
-<div style="background-color:#fde473;">
+
 	<div class="container">
 	<div class="row text-md-center text-lg-center text-xl-center">
 	    <div class="col-xs-12 col-sm-10 mx-auto ml-xs-0 ml-sm-0">
@@ -96,4 +96,4 @@ comments: false
                     </div>                     
 	  	</div>
 	</div>
-</div>
+
