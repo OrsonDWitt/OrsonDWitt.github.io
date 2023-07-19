@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Egypt
 permalink: /egypt
 comments: false
