@@ -61,7 +61,11 @@
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
+		{% if page.url == "/egypt" %}
+		<a class="nav-link" href="/">Books</a>
+		{% else %}
                 <a class="nav-link" href="{{ site.games }}" title="Orcinus Games">Games</a>
+		{% endif %}
                 </li>
 		    
                 <li class="nav-item">
