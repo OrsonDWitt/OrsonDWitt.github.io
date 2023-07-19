@@ -20,7 +20,7 @@ comments: false
 
   <div class="container dunes.features" style="display: block;">
 	  
-<center><div class="row"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()"><u>Features</u></button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()">FAQ</button></div</center>
+<center><div class="row"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()"><u>Features</u></button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()">FAQ</button></div></center>
 
                 <div class="row mt-3"> 
                     <div class="col-md-4 cpad mb-3 mb-md-5 cpad"> 
