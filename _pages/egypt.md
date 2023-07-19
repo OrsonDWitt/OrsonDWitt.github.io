@@ -19,8 +19,9 @@ comments: false
 	</div>
 
   <div class="container dunes.features" style="display: block;">
-	  
-<center><div class="row"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()"><u>Features</u></button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()">FAQ</button></div></center>
+
+   <div style="text-align: center;">
+<div class="row"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel1()"><u>Features</u></button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()">FAQ</button></div></div>
 
                 <div class="row mt-3"> 
                     <div class="col-md-4 cpad mb-3 mb-md-5 cpad"> 
@@ -57,7 +58,7 @@ comments: false
 	</div>
 
    <div class="container dunes.faq" style="display: none;">
-	   <center><div class="row"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()">Features</button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()"><u>FAQ</u></button></div></center>
+	   <center><div class="row"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel1()">Features</button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()"><u>FAQ</u></button></div></center>
                   <h2 class="text-h0">Frequently Asked Questions</h2>
 			
 			  <div class="accordion">
