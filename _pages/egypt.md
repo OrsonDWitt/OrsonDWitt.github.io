@@ -20,8 +20,7 @@ comments: false
 
   <div class="container dunes.features" style="display: block;">
 
-   <div style="text-align: center;">
-<div class="row"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel1()"><u>Features</u></button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()">FAQ</button></div></div>
+<div class="row" style="display: flex; justify-content: center; align-items: center;"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel1()"><u>Features</u></button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()">FAQ</button></div></div>
 
                 <div class="row mt-3"> 
                     <div class="col-md-4 cpad mb-3 mb-md-5 cpad"> 
