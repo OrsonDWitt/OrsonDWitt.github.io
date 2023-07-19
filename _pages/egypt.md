@@ -6,6 +6,9 @@ permalink: /egypt
 comments: false
 ---
 
+<!--
+Haikei colors: FDE6C3, fabf69, e26353, layered waves
+-->
 <div>
 	<div class="container">
 	<div class="row text-md-center text-lg-center text-xl-center" style="color:#4b1629; margin-top: 18px;">
