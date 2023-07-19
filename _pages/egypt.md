@@ -80,7 +80,7 @@ Haikei colors: FDE6C3, fabf69, e26353, layered waves
 			    <div class="accordion-item">
 			      <a>In what time period does Egypt: Shattered Order take place?</a>
 			      <div class="content">
-			       <p><strong>Egypt: Shattered Order</strong> is set in the Second Intermediate Period of Ancient Egypt, where Lower Egypt is controlled by Hyksos, Asian peoples that came to Lower Egypt and gradually seized power, and Upper Egypt, the last stronghold of the original Egyptian culture. And while it is true that Hyksos assimilated into the Egyptian culture and probably did not come to power in a violent way, for the purpose of providing an engaging first-person narrative it is important to establish a distinct perspective; a perspective of a young Egyptian ruler, born into as broken family as is the kingdom, where foreigners are seen as dangerous threats to the natural order. 
+			       <p><strong>Egypt: Shattered Order</strong> is set in the Second Intermediate Period of Ancient Egypt, where Lower Egypt is controlled by Hyksos, Asian peoples that came to Lower Egypt and gradually seized power, and Upper Egypt, the last stronghold of the original Egyptian culture. And while it is true that Hyksos assimilated into the Egyptian culture and probably did not come to power in a violent way, for the purpose of providing an engaging first-person narrative it is important to establish a distinct perspective; a perspective of a young Egyptian ruler, born into as broken family as is the kingdom, where foreigners are seen as dangerous threats to the natural order.</p>
 			      </div>
 			    </div>
 			    <div class="accordion-item">
