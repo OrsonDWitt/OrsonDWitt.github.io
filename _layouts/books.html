@@ -13,7 +13,7 @@
   }
 </script>
 <script>
-  function togglePanel() {
+  function togglePanel2() {
     var panel1 = document.getElementById("dunes.features");
     var panel2 = document.getElementById("dunes.faq");
 
@@ -26,6 +26,7 @@
     }
   }
 </script>
+
 {% include header.html %}
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -157,6 +158,7 @@
     <div class="row">
       <div class="col-12 mx-auto text-center">
         <ul class="list-inline text-center">
+	{% if page.url == "/egypt" %}
           {% if site.steam_creator_page %}
           <li class="list-inline-item">
             <a href="{{ site.steam_creator_page }}">
@@ -193,6 +195,7 @@
             </a>
           </li>
           {% endif %}
+	{% endif %}
         </ul>
         <p class="copyright text-black"><i class="far fa-envelope"></i> <a href="mailto:{{ site.email }}" class="text-black" style="color:#000">{{ site.email }}</a><br>© {{ site.name }}, {{ site.time | date: "%Y" }} </p>
       </div>
