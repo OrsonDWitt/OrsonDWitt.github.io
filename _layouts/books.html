@@ -13,16 +13,21 @@
   }
 </script>
 <script>
+        function toggleFeatures() {
             var panel1 = document.getElementById("dunes.features");
             var panel2 = document.getElementById("dunes.faq");
 
-            if (panelId === 'dunes.features') {
-                panel1.style.display = "block";
-                panel2.style.display = "none";
-            } else {
-                panel1.style.display = "none";
-                panel2.style.display = "block";
-            }
+            panel1.style.display = "block";
+            panel2.style.display = "none";
+        }
+
+        function toggleFAQ() {
+            var panel1 = document.getElementById("dunes.features");
+            var panel2 = document.getElementById("dunes.faq");
+
+            panel1.style.display = "none";
+            panel2.style.display = "block";
+        }
 </script>
 
 {% include header.html %}
