@@ -18,7 +18,7 @@ comments: false
 	</div>
 	</div>
 
-  <div class="container dunes.features" style="display: block;">
+  <div class="container" id="dunes.features" style="display: block;">
 
 <div class="row" style="display: flex; justify-content: center; align-items: center;"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="toggleFeatures()"><u>Features</u></button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;"  onclick="toggleFAQ()">FAQ</button></div></div>
 
@@ -56,8 +56,8 @@ comments: false
 	  	</div>
 	</div>
 
-   <div class="container dunes.faq" style="display: none;">
-	   <center><div class="row"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel1()">Features</button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()"><u>FAQ</u></button></div></center>
+   <div class="container" id="dunes.faq" style="display: none;">
+	   <div class="row" style="display: flex; justify-content: center; align-items: center;"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="toggleFeatures()">Features</button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;"  onclick="toggleFAQ()"><u>FAQ</u></button></div></div>
                   <h2 class="text-h0">Frequently Asked Questions</h2>
 			
 			  <div class="accordion">
