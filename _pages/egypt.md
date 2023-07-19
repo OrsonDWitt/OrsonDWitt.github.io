@@ -5,6 +5,24 @@ permalink: /egypt
 comments: false
 ---
 
+<script>
+        function toggleFeatures() {
+            var panel1 = document.getElementById("dunes.features");
+            var panel2 = document.getElementById("dunes.faq");
+
+            panel1.style.display = "block";
+            panel2.style.display = "none";
+        }
+
+        function toggleFAQ() {
+            var panel1 = document.getElementById("dunes.features");
+            var panel2 = document.getElementById("dunes.faq");
+
+            panel1.style.display = "none";
+            panel2.style.display = "block";
+        }
+</script>
+
 <div>
 	<div class="container">
 	<div class="row text-md-center text-lg-center text-xl-center" style="color:#4b1629; margin-top: 18px;">
@@ -89,15 +107,15 @@ comments: false
 			       <div class="accordion-item">
 			      <a>Are you doing this all by yourself?</a>
 			      <div class="content">
-			        <p>Yes, everything from the initial outline of the game to design, programming, marketing and sculpting the final build is handled by me. I I love <a class="inherit" href="http://orsondewitt.com">writing about orcas</a>, imagining alternative history worlds,  <a class="inherit" href="https://discord.gg/amMNE4x" rel="nofollow">making quizzes</a>, and many other things, but currently, most of my time (excluding my full-time job) is dedicated to making this game happen. I wish there were more hours in a day.</p>
+			        <p>Yes, everything from the initial outline of the game to design, programming, marketing and sculpting the final build is handled by me. I started working on this game when I was younger and much more naive; I thought since this is "not some Cities: Skylines", it will be quick to develop it. I was wrong! But I'm still working on it, even if I don't find the time to write status updates and such. If you don't want to miss the date of release, join <a class="inherit" href="{{ site:discord }}" rel="nofollow">my discord</a>. You may play a quiz about Ancient Egypt while you're waiting :)</p>
 			      </div>
 			    </div>
-			    <div class="accordion-item">
+	<!---		    <div class="accordion-item">
 			      <a>What is the goal of Orcinus Games?</a>
 			      <div class="content">
 			        <p>The ultimate goal is to inspire. The idea is that fun should not override other feelings and ideas that can be ignited in the video game medium. Today, Orcinus Games seeks to ignite appreciation of our past. Tomorrow, it could be anything. </p>
 			      </div>
-			    </div>
+			    </div> -->
 			  </div>
 			  
 			</div>
