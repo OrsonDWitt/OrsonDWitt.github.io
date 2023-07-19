@@ -8,7 +8,7 @@ comments: false
 <div>
 	<div class="container">
 	<div class="row text-md-center text-lg-center text-xl-center" style="color:#4b1629">
-	    <div class="col-xs-8 col-md-8 col-xl-8 mx-auto ml-xs-0 ml-sm-0">
+	    <div class="col-xs-6 col-md-6 col-xl-6 mx-auto ml-xs-0 ml-sm-0">
 		<h4 class="font-weight-bold text-h0">What would it be like to walk in the sandals of a Pharaoh?</h4>
 		<p class="col20">You won't know until you unite Egypt — only the rulers of both Upper and Lower Egypt can be called as such, and, as of now, Egypt is shattered! Take the reins of this chariot on its way to the otherworld, restore the order, and build the great pyramid to preserve your legacy! But it's not going to be easy. The priests are breathing down your neck, the enemies are on a war footing, the noblemen are out of line, and, on top of all that, the God's Wife must be chosen swiftly, lest no heir is left to the throne...
 		    </p><p class="col20">Can you guide Egyptians through all the hardships to prosperity and power? Will your heart stay pure and uncorrupted so that your soul is granted access to the heavenly realms, to dwell with the gods?</p>
