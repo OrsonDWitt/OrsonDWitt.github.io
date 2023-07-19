@@ -5,24 +5,6 @@ permalink: /egypt
 comments: false
 ---
 
-<script>
-        function toggleFeatures() {
-            var panel1 = document.getElementById("dunes.features");
-            var panel2 = document.getElementById("dunes.faq");
-
-            panel1.style.display = "block";
-            panel2.style.display = "none";
-        }
-
-        function toggleFAQ() {
-            var panel1 = document.getElementById("dunes.features");
-            var panel2 = document.getElementById("dunes.faq");
-
-            panel1.style.display = "none";
-            panel2.style.display = "block";
-        }
-</script>
-
 <div>
 	<div class="container">
 	<div class="row text-md-center text-lg-center text-xl-center" style="color:#4b1629; margin-top: 18px;">
