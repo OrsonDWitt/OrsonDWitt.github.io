@@ -18,7 +18,7 @@ comments: false
 	</div>
 	</div>
 		  
-	    <div class="container">
+<div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 col-xs-12 mx-auto text-center">
         <ul class="list-inline text-center">
@@ -40,9 +40,9 @@ comments: false
             </a>
           </li>
           {% endif %}
-          {% if site.discord_invite %}
+          {% if site.discord %}
           <li class="list-inline-item">
-            <a href="{{ site.discord_invite }}">
+            <a href="{{ site.discord }}">
               <span class="fa-stack fa-lg">
                 <i class="fab fa-discord fa-stack-2x fa-5x" title="Join the Discord server to follow development"></i>
               </span>
