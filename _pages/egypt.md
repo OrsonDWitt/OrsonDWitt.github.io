@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: books
 title: Egypt
 permalink: /egypt
 comments: false
