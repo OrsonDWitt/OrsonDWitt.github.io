@@ -104,8 +104,6 @@ Haikei colors: FDE6C3, fabf69, e26353, layered waves
 			    </div> -->
 			  </div>
 			  
-			</div>
-
 	</div>
 
 </div>
