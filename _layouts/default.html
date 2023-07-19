@@ -183,6 +183,16 @@ No spam, no ads. Unsubscribe whenever you want.
             </div>
         </div>
     </div>
+	    <script>
+const items = document.querySelectorAll(".accordion a");
+ 
+function toggleAccordion(){
+  this.classList.toggle('active');
+  this.nextElementSibling.classList.toggle('active');
+}
+ 
+items.forEach(item => item.addEventListener('click', toggleAccordion));
+    </script>
 </footer>
 <!-- End Footer
 ================================================== -->
