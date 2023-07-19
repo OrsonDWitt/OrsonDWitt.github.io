@@ -20,7 +20,7 @@ comments: false
 
   <div class="container dunes.features" style="display: block;">
 	  
-<div class="row text-center text-md-center text-lg-center text-xl-center"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel()"><u>Features</u></button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel()">FAQ</button></div>
+<div class="row text-center text-md-center text-lg-center text-xl-center"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()"><u>Features</u></button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()">FAQ</button></div>
 
                 <div class="row mt-3"> 
                     <div class="col-md-4 cpad mb-3 mb-md-5 cpad"> 
@@ -57,6 +57,7 @@ comments: false
 	</div>
 
    <div class="container dunes.faq" style="display: none;">
+	   <div class="row text-center text-md-center text-lg-center text-xl-center"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()">Features</button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="togglePanel2()"><u>FAQ</u></button></div>
                   <h2 class="text-h0">Frequently Asked Questions</h2>
 			
 			  <div class="accordion">
@@ -100,17 +101,6 @@ comments: false
 			  </div>
 			  
 			</div>
-			
-			<script>
-			const items = document.querySelectorAll(".accordion a");
-			 
-			function toggleAccordion(){
-			  this.classList.toggle('active');
-			  this.nextElementSibling.classList.toggle('active');
-			}
-			 
-			items.forEach(item => item.addEventListener('click', toggleAccordion));
-			</script>
 
 	</div>
 
