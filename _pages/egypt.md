@@ -62,7 +62,7 @@ comments: false
     </div>
   </div>
 
-  <div class="container">
+  <div class="container dunes.features" style="display: block;">
                 <div class="row mt-3"> 
                     <div class="col-md-4 cpad mb-3 mb-md-5 cpad"> 
                           <div class="card py-4 h-100"> 
@@ -95,6 +95,64 @@ comments: false
                         </div>                         
                     </div>                     
 	  	</div>
+	</div>
+
+   <div class="container dunes.faq" style="display: none;">
+                  <h2 class="text-h0">Frequently Asked Questions</h2>
+			
+			  <div class="accordion">
+			    <div class="accordion-item">
+			      <a>When and where can I get the game?</a>
+			      <div class="content">
+			        <p>The game is going to come out on Mac and PC, hopefully this year. The exact release date is going to be communicated through <a class="inherit" href="https://discord.gg/amMNE4x" rel="nofollow">Discord</a>, <a class="inherit" href="https://www.reddit.com/r/OrcinusGames">Reddit</a>, E-mail and other channels.</p>
+			      </div>
+			    </div>
+			    <div class="accordion-item">
+			      <a>What is this game about, anyway?</a>
+			      <div class="content">
+			        <p>Egypt: Shattered Order is an <strong>interactive fiction</strong>/<strong>strategy video game</strong>, or, intrinsically, a <strong>political simulator</strong> based on the history of <strong>Ancient Egypt</strong>. You, as a king that seeks to re-unite Egypt under his rule, will have to make decisions that are going to rewrite the history of the most powerful kingdom of its time. And there is a multitude of possibilities to choose from. You can make Egypt rise from the ashes and become the founder of the New Kingdom, or make it collapse and go down in the annals of time as incompetent, disastrous ruler. Choice is yours!</p>
+			      </div>
+			    </div>
+			    <div class="accordion-item">
+			      <a>In what time period does Egypt: Shattered Order take place?</a>
+			      <div class="content">
+			       <p><strong>Egypt: Shattered Order</strong> is set in the Second Intermediate Period of Ancient Egypt, where Lower Egypt is controlled by Hyksos, Asian peoples that came to Lower Egypt and gradually seized power, and Upper Egypt, the last stronghold of the original Egyptian culture. And while it is true that Hyksos assimilated into the Egyptian culture and probably did not come to power in a violent way, for the purpose of providing an engaging first-person narrative it is important to establish a distinct perspective; a perspective of a young Egyptian ruler, born into as broken family as is the kingdom, where foreigners are seen as dangerous threats to the natural order. 
+			      </div>
+			    </div>
+			    <div class="accordion-item">
+			      <a>It surely can't be historically accurate, can it?</a>
+			      <div class="content">
+			       <p>Even though I do allow myself certain liberties in interpretation and representation of Ancient Egyptian history due to the nature of the genre, the game's script is written with scholarly works in mind. Still, it is evident that it's a thin line between a fun game and an authentic game, and that is exactly why your input is critical. 
+			        <br>Orcinus Games accepts all tips, suggestions and criticisms, and in case you would like to help and cross-check historical authenticity, feel free to <a class="inherit" href="/contact">contact me</a>.</p>
+			      </div>
+			    </div>
+			       <div class="accordion-item">
+			      <a>Who stands behind Orcinus Games?</a>
+			      <div class="content">
+			        <p>In short, Orcinus Games is a one-man developer team, meaning that everything from the initial outline of the game to design, programming, marketing and sculpting the final build is handled by me, <a class="inherit" href="/contact">Orson De Witt</a>. I love <a class="inherit" href="http://orsondewitt.com">writing about orcas</a>, imagining alternative history worlds,  <a class="inherit" href="https://discord.gg/amMNE4x" rel="nofollow">making quizzes</a>, and many other things, but currently, most of my time (excluding my full-time job) is dedicated to making this game happen. I wish there were more hours in a day.</p>
+			      </div>
+			    </div>
+			    <div class="accordion-item">
+			      <a>What is the goal of Orcinus Games?</a>
+			      <div class="content">
+			        <p>The ultimate goal is to inspire. The idea is that fun should not override other feelings and ideas that can be ignited in the video game medium. Today, Orcinus Games seeks to ignite appreciation of our past. Tomorrow, it could be anything. </p>
+			      </div>
+			    </div>
+			  </div>
+			  
+			</div>
+			
+			<script>
+			const items = document.querySelectorAll(".accordion a");
+			 
+			function toggleAccordion(){
+			  this.classList.toggle('active');
+			  this.nextElementSibling.classList.toggle('active');
+			}
+			 
+			items.forEach(item => item.addEventListener('click', toggleAccordion));
+			</script>
+
 	</div>
 
 </div>
