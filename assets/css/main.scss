@@ -134,6 +134,7 @@ screenshot {
   background-size: 26px 20px;
   opacity: 0.6;
   transform: translateY(-50%);
+filter: hue-rotate(45deg) !important; 
 }
 
 .carousel-control > .arrow:hover {
@@ -168,12 +169,12 @@ a.carousel-control.right:hover {
   width: 10px;
   height: 10px;
   cursor: pointer;
-  border: 1px solid #FFFFFF;
+  border: 1px solid rgba(52,58,64,1);
   border-radius: 10px;
 }
 
 .carousel-indicators li.active {
-  background-color: #FFFFFF;
+  background-color: #bdd8ff;
 }
 
 @media (min-width: 992px) {
