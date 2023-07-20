@@ -121,8 +121,8 @@ screenshot {
   position: absolute;
   top: 50%;
   display: inline-block;
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
   background: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyNiAyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QXJyb3c8L3RpdGxlPjxwYXRoIGQ9Ik0yNS42IDEwLjk3NGwtOC41MyA4LjYyYTEuMzYgMS4zNiAwIDAgMS0xLjkzNS4wMDMgMS4zODcgMS4zODcgMCAwIDEtLjAwMi0xLjk1bDYuMjAxLTYuMjY4SDEuMzY4QTEuMzc0IDEuMzc0IDAgMCAxIDAgMTBjMC0uNzYyLjYxMy0xLjM4IDEuMzY4LTEuMzhoMTkuOTY2bC02LjItNi4yNjdhMS4zODcgMS4zODcgMCAwIDEgLjAwMS0xLjk1IDEuMzYgMS4zNiAwIDAgMSAxLjkzNi4wMDJsOC41MyA4LjYyMWMuNTMyLjUzOC41MzIgMS40MSAwIDEuOTQ4IiBmaWxsPSIjRkZGRkZGIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz48L3N2Zz4=") center center no-repeat;
   background-size: 26px 20px;
   opacity: 0.6;
@@ -131,6 +131,7 @@ screenshot {
 
 .carousel-control > .arrow:hover {
   opacity: 0.8;
+background-color: #f0f0f0;
 }
 
 .carousel-control > .arrow.left {
