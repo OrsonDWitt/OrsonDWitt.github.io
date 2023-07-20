@@ -20,12 +20,14 @@ h2 {
 
 //birdmapp carousel
 .app-title {
+text-align: center;
   font-size: 28px;
   color: #bdd8ff;
   margin-bottom: 10px;
 }
 
 .app-description {
+text-align: center;
   font-size: 18px;
   color: #444;
   margin-bottom: 20px;
@@ -85,9 +87,13 @@ h2 {
 
 .carousel-container {
   margin: auto;
+background-color: #f0f0f0;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 30px;
 }
 
-blockquote {
+screenshot {
   padding: 10px 20px;
   margin: 30px 90px;
   font-size: 32px;
