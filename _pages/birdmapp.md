@@ -15,24 +15,24 @@ comments: false
       <div class="carousel-container">
         <div class="screenshot">
                   <img src="https://cdn.wccftech.com/wp-content/uploads/2019/11/diablo-4-screenshots-13-1030x644.jpg" alt="Screenshot 1">
-        </div>
         <p class="author">Oscar Wilde</p>
+        </div>
       </div>
     </div>
     <div class="item">
       <div class="carousel-container">
         <div class="screenshot">
                 <img src="https://cdn.wccftech.com/wp-content/uploads/2019/11/diablo-4-screenshots-13-1030x644.jpg" alt="Screenshot 2">
-          </div>
         <p class="author">Mark Twain</p>
+        </div>
       </div>
     </div>
     <div class="item">
       <div class="carousel-container">
         <div class="screenshot">
           The worst sin towards our fellow creatures is not to hate them, but to be indifferent to them. That's the essence of inhumanity.
-        </div>
         <p class="author">George Bernard Shaw</p>
+        </div>
       </div>
     </div>
   </div>
