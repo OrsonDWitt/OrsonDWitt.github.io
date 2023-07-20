@@ -1,7 +1,7 @@
 ---
 layout: books
 title: Orca Hunting School
-permalink: /
+permalink: /books
 comments: false
 ---
 	
