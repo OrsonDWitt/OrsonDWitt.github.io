@@ -13,8 +13,12 @@ russian: 'https://ru.orsondewitt.com/'
 english: 'https://orsondewitt.com'
 email: 'author@orsondewitt.com'
 
-# Egypt
+# Links
+books: '/books'
+birdmapp: '/'
 games: 'https://orsondewitt.com/egypt' #'https://egypt.orcinus.games'
+
+# Egypt
 discord: 'https://discord.gg/Nmx4KDKuhJ'
 steam_creator_page: 'https://store.steampowered.com/developer/orcinusgames/'
 youtube: 'https://www.youtube.com/channel/UCdod8Lkks-QqSjm0epIHv-A'
