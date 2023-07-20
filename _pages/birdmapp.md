@@ -55,7 +55,12 @@ comments: false
 
 <div><div class="button-container app-container">
   <a href="#" class="download-button">
-    <i class="fab fa-windows"></i> Download <br> for Windows
+    <div class="icon-container">
+    <i class="fab fa-windows"></i>
+  </div>
+  <div class="text-container">
+    Download<br>for Windows
+  </div>
   </a>
   <a href="#" class="github-button">
     <i class="fab fa-github"></i> GitHub
