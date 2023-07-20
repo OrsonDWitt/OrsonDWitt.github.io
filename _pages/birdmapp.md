@@ -9,7 +9,7 @@ comments: false
 <div class="carousel">
   <div class="carousel-inner">
     <div class="item active">
-      <div class="container">
+      <div class="carousel-container">
         <blockquote>
           Most people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation.
         </blockquote>
@@ -17,7 +17,7 @@ comments: false
       </div>
     </div>
     <div class="item">
-      <div class="container">
+      <div class="carousel-container">
         <blockquote>
           Do something every day that you don't want to do. This is the golden rule for acquiring the habit of doing your duty without pain.
         </blockquote>
@@ -25,7 +25,7 @@ comments: false
       </div>
     </div>
     <div class="item">
-      <div class="container">
+      <div class="carousel-container">
         <blockquote>
           The worst sin towards our fellow creatures is not to hate them, but to be indifferent to them. That's the essence of inhumanity.
         </blockquote>
