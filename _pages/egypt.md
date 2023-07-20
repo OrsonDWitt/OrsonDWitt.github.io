@@ -68,7 +68,7 @@ Haikei colors: FDE6C3, fabf69, e26353, layered waves
 			    <div class="accordion-item">
 			      <a>When and where can I get the game?</a>
 			      <div class="content">
-			        <p>The game is going to come out on Mac and PC, hopefully this year. The exact release date is going to be communicated through <a class="inherit" href="{{ site.discord }}" rel="nofollow">Discord</a>, <a class="inherit" href="https://www.reddit.com/r/OrcinusGames">Reddit</a>, and other channels.</p>
+			        <p>The game is in its final stages, but there is no set release date yet. It is going to come out on PC and hopefully Mac. The exact release date is going to be communicated through <a class="inherit" href="{{ site.discord }}" rel="nofollow">Discord</a>, <a class="inherit" href="https://www.reddit.com/r/OrcinusGames">Reddit</a>, and other channels.</p>
 			      </div>
 			    </div>
 			    <div class="accordion-item">
