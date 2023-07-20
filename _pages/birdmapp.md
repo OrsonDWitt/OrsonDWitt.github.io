@@ -14,16 +14,14 @@ comments: false
     <div class="item active">
       <div class="carousel-container">
         <blockquote>
-          Most people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation.
+                  <img src="https://cdn.wccftech.com/wp-content/uploads/2019/11/diablo-4-screenshots-13-1030x644.jpg" alt="Screenshot 1">
         </blockquote>
         <p class="author">Oscar Wilde</p>
       </div>
     </div>
     <div class="item">
       <div class="carousel-container">
-        <blockquote>
-          Do something every day that you don't want to do. This is the golden rule for acquiring the habit of doing your duty without pain.
-        </blockquote>
+                <img src="https://cdn.wccftech.com/wp-content/uploads/2019/11/diablo-4-screenshots-13-1030x644.jpg" alt="Screenshot 2">
         <p class="author">Mark Twain</p>
       </div>
     </div>
