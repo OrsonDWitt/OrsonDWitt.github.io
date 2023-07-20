@@ -142,9 +142,13 @@ filter: hue-rotate(45deg) !important;
   opacity: 0.8;
 }
 
-a.carousel-control.left:hover,
+a.carousel-control.left:hover {
+  background: linear-gradient(90deg, transparent 0%, #f0f0f0 100%);
+}
+
+/* For the right arrow */
 a.carousel-control.right:hover {
-  background-color: #f0f0f0;
+  background: linear-gradient(270deg, transparent 0%, #f0f0f0 100%);
 }
 
 .carousel-control > .arrow.left {
