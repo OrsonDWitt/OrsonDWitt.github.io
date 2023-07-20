@@ -44,7 +44,7 @@
             <ul class="navbar-nav ml-auto">
 {% endif %}
 
-		{% if page.url != {{ site.birdmapp }} %}
+		{% if page.url != "{{ site.birdmapp }}" %}
 	    	<li class="nav-item active">
                 <b><a class="nav-link" href="{{ site.birdmapp }}">BirdMApp</a></b>
                 </li>
@@ -57,7 +57,7 @@
                 </li>
 	   	{% endif %}
 
-		{% if page.url != {{ site.books }} %}
+		{% if page.url != "{{ site.books }}" %}
 		<li class="nav-item">
                 <a class="nav-link" href="{{ site.books }}/">Books</a>
                 </li>
