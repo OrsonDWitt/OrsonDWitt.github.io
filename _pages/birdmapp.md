@@ -8,7 +8,7 @@ comments: false
 
 <div class="app-container">
   <h1 class="app-title">BirdMApp</h1>
-  <p class="app-description">yes.</p>
+  <p class="app-description">BirdMApp lets you map all your bird photos, filter by species, gain insights and more. The only thing that you have to do is tag your photos, and BirdMApp will do the rest!</p>
 </div>
     
 <div class="carousel">
