@@ -16,10 +16,10 @@ comments: false
     <div class="item active">
       <div class="carousel-container">
         <div class="screenshot">
-            <video width="560" height="420" controls="controls">
-            <source src="https://i.gifer.com/5Tz.mp4" type="video/webm">
+            <video width="560" height="420">
+            <source src="https://commons.wikimedia.org/wiki/File:NORWAY_TRIP_(4K).webm" type="video/webm">
             </video>
-        <p class="author">Oscar Wilde</p>
+        <p class="authr">Oscar Wilde</p>
         </div>
       </div>
     </div>
