@@ -210,7 +210,9 @@ a.carousel-control.right:hover {
 .download-button {
 	border-radius: 1px;
   background-color: #007BFF;
-    text-decoration: none;
+  display: inline-flex; /* Display the elements inside the link side by side */
+  align-items: center; /* Align elements vertically center */
+  text-decoration: none; /* Remove underline from the link */
   display: inline-block;
   padding: 10px 20px;
   font-size: 18px;
@@ -220,6 +222,15 @@ a.carousel-control.right:hover {
   transition: background-color 0.3s;
 }
 
+.icon-container {
+  font-size: 36px; /* Adjust the size of the icon */
+  padding-right: 10px; /* Add spacing between icon and text */
+}
+
+.text-container {
+  font-size: 18px; /* Adjust the size of the text */
+  line-height: 1.2; /* Adjust the line height for two lines */
+}
 
 .github-button {
 	border-radius: 1px;
