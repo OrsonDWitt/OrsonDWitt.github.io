@@ -54,16 +54,16 @@
 
 
 	    	<li class="nav-item">
-                <b><a class="nav-link" href="{{ site.baseurl }}/birdmapp">BirdMApp</a></b>
+                <b><a class="nav-link" href="{{ site.birdmapp }}">BirdMApp</a></b>
                 </li>
 
-		{% if page.url == "/" %}
+		{% if page.url == "{{ site.games }}" %}
                 <li class="nav-item active">
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-		{% if page.url == "/egypt" %}
-		<a class="nav-link" href="/">Books</a>
+		{% if page.url == "{{ site.games }}" %}
+		<a class="nav-link" href="{{ site.books }}">Books</a>
 		{% else %}
                 <a class="nav-link" href="{{ site.games }}" title="Orcinus Games">Games</a>
 		{% endif %}
