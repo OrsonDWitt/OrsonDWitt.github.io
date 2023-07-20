@@ -41,10 +41,7 @@ h2 {
 .accordion a:hover:not(.inherit),
 .accordion a:hover:not(.inherit)::after {
   cursor: pointer;
-  color: #4b1629;
-}
-.accordion a:hover:not(.inherit)::after {
-  border: 1px solid #4b1629;
+  color: #e26353;
 }
 .accordion a.active:not(.inherit) {
   color: #4b1629;
