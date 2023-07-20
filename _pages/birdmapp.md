@@ -55,10 +55,10 @@ comments: false
 
 <div><div class="button-container app-container">
   <a href="#" class="download-button">
-    <i class="icon fas fa-download"></i> Download for Windows
+    <i class="icon fa-brands fa-windows"></i> Download for Windows
   </a>
   <a href="#" class="github-button">
-    <i class="icon fab fa-github"></i> GitHub
+    <i class="icon fa-brands fa-github"></i> GitHub
   </a>
 </div>
 </div>
