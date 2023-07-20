@@ -19,16 +19,23 @@ h2 {
 }
 
 //birdmapp carousel
-.app-title {
-text-align: center;
-  color: #bdd8ff;
+
+.app-container {
+  position: absolute;
 margin-top: 10px;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  z-index: 1; 
+}
+
+.app-title {
+  color: rgba(84,144,240,1);
   margin-bottom: 10px;
 }
 
 .app-description {
 text-align: center;
-  color: #444;
+  color: #000000;
   margin-bottom: 20px;
 }
 
