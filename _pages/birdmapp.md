@@ -6,6 +6,9 @@ permalink: /
 comments: false
 ---
 
+  <h1 class="app-title">BirdMApp</h1>
+  <p class="app-description">yes.</p>
+    
 <div class="carousel">
   <div class="carousel-inner">
     <div class="item active">
