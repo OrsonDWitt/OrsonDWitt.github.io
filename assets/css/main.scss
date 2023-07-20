@@ -126,13 +126,12 @@ screenshot {
   position: absolute;
   top: 50%;
   display: inline-block;
-  width: 40px;
-  height: 40px;
+  width: 90px;
+  height: 90px;
   background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0ibTE4LjcwNyAxMi43MDctMyAzYTEgMSAwIDAgMS0xLjQxNC0xLjQxNEwxNS41ODYgMTNINmExIDEgMCAwIDEgMC0yaDkuNTg2bC0xLjI5My0xLjI5M2ExIDEgMCAwIDEgMS40MTQtMS40MTRsMyAzYTEgMSAwIDAgMSAwIDEuNDE0eiIgc3R5bGU9ImZpbGw6I2Y5N2M0YiIgZGF0YS1uYW1lPSJSaWdodCIvPjwvc3ZnPg==") center center no-repeat;
   background-size: 26px 20px;
   opacity: 0.6;
   transform: translateY(-50%);
-filter: hue-rotate(45deg) !important; 
 }
 
 .carousel-control > .arrow:hover {
