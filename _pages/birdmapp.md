@@ -17,7 +17,7 @@ comments: false
       <div class="carousel-container">
         <div class="screenshot">
             <video width="560" height="420" controls="controls">
-            <source src="https://file-examples.com/wp-content/storage/2020/03/file_example_WEBM_480_900KB.webm" type="video/webm">
+            <source src="https://i.gifer.com/5Tz.mp4" type="video/webm">
             </video>
         <p class="author">Oscar Wilde</p>
         </div>
@@ -51,4 +51,14 @@ comments: false
     <li></li>
     <li></li>
   </ol>
+</div>
+
+<div><div class="button-container app-container">
+  <a href="#" class="download-button">
+    <i class="icon fas fa-download"></i> Download for Windows
+  </a>
+  <a href="#" class="github-button">
+    <i class="icon fab fa-github"></i> GitHub
+  </a>
+</div>
 </div>
