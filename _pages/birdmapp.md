@@ -16,7 +16,9 @@ comments: false
     <div class="item active">
       <div class="carousel-container">
         <div class="screenshot">
-                  <img src="https://cdn.wccftech.com/wp-content/uploads/2019/11/diablo-4-screenshots-13-1030x644.jpg" alt="Screenshot 1">
+            <video width="560" height="420" controls="controls">
+            <source src="https://file-examples.com/wp-content/storage/2020/03/file_example_WEBM_480_900KB.webm" type="video/webm">
+            </video>
         <p class="author">Oscar Wilde</p>
         </div>
       </div>
