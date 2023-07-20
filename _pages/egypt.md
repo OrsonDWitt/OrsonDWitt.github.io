@@ -61,10 +61,10 @@ Haikei colors: FDE6C3, fabf69, e26353, layered waves
 	  		</div>
 </div>
 
-   <div class="container" id="dunes.faq" style="display: none; background-color:#FDF0DC">
+   <div class="container" id="dunes.faq" style="display: none; line-height: 1.6;">
 	   <div class="row" style="display: flex; justify-content: center; align-items: center;"><button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;" onclick="toggleFeatures()">Features</button>   <button class="btn btn-lg nav-link" style="background-color: transparent; border: 1px;"  onclick="toggleFAQ()"><u>FAQ</u></button></div>
 			
-			  <div class="accordion">
+			  <div class="accordion" style="background-color:#FDF0DC">
 			    <div class="accordion-item">
 			      <a>When and where can I get the game?</a>
 			      <div class="content">
