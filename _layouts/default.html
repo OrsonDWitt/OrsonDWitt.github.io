@@ -44,9 +44,9 @@
             <ul class="navbar-nav ml-auto">
 {% endif %}
 
-		{% if page.url != "/birdmapp" %}
+		{% if page.url != {{ site.birdmapp }} %}
 	    	<li class="nav-item active">
-                <b><a class="nav-link" href="{{ site.baseurl }}/birdmapp">BirdMApp</a></b>
+                <b><a class="nav-link" href="{{ site.birdmapp }}">BirdMApp</a></b>
                 </li>
 		<li class="nav-item">
                 <a class="nav-link" href="{{ site.games }}" title="Orcinus Games">Games</a>
@@ -57,9 +57,9 @@
                 </li>
 	   	{% endif %}
 
-		{% if page.url != "/" %}
+		{% if page.url != {{ site.books }} %}
 		<li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/">Books</a>
+                <a class="nav-link" href="{{ site.books }}/">Books</a>
                 </li>
 		{% endif %}
 
