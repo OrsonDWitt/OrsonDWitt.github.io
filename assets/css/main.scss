@@ -19,6 +19,18 @@ h2 {
 }
 
 //birdmapp carousel
+.app-title {
+  font-size: 28px;
+  color: #bdd8ff;
+  margin-bottom: 10px;
+}
+
+.app-description {
+  font-size: 18px;
+  color: #444;
+  margin-bottom: 20px;
+}
+
 .carousel {
   position: absolute;
   top: 50%;
@@ -26,7 +38,7 @@ h2 {
   width: 100%;
   padding: 90px 0;
   text-align: center;
-  background-color: #1E88E5;
+  background-color: #FFFFFF;
   transform: translate(-50%, -50%);
 }
 
