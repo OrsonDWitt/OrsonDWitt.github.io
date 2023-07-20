@@ -52,7 +52,7 @@ h2 {
 }
 .accordion a:not(.inherit)::after {
   font-family: "Font Awesome 5 Free";
-  content: "\f078";
+  content: "\f13a";
   position: absolute;
   float: right;
   right: 1rem;
@@ -60,17 +60,13 @@ h2 {
   color: #4b1629;
   width: 30px;
   height: 30px;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%;
-  border: 1px solid #7288a2;
   text-align: center;
  font-weight: 1000; 
 	margin-top: -10px;
 }
 .accordion a.active:not(.inherit)::after {
   font-family: "Font Awesome 5 Free";
-  content: "\f077";
+  content: "\f139";
   color: #4b1629;
   border: 1px solid #4b1629;
 	font-weight: 900; 
