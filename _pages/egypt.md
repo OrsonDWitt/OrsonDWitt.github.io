@@ -93,7 +93,7 @@ Haikei colors: FDE6C3, fabf69, e26353, layered waves
 			       <div class="accordion-item">
 			      <a>Are you doing this all by yourself?</a>
 			      <div class="content">
-			        <p>Yes, everything from the initial outline of the game to design, programming, marketing and sculpting the final build is handled by me. I started working on this game when I was younger and much more naive; I thought since this is "not some Cities: Skylines", it will be quick to develop it. I was wrong! But I'm still working on it, even if I don't find the time to write status updates and such. If you don't want to miss the date of release, join <a class="inherit" href="{{ site:discord }}" rel="nofollow">my discord</a>. You may play a quiz about Ancient Egypt while you're waiting :)</p>
+			        <p>Yes, everything from the initial outline of the game to design, programming, marketing and sculpting the final build is handled by me. I started working on this game many years ago; I thought since this is "not some Cities: Skylines", it will be quick to develop it. I was wrong! But I'm still working on it, even if I don't find the time to write status updates and such. If you don't want to miss the date of release, join <a class="inherit" href="{{ site:discord }}" rel="nofollow">my discord</a>. You may play a quiz about Ancient Egypt while you're waiting :)</p>
 			      </div>
 			    </div>
 	<!---		    <div class="accordion-item">
