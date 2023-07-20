@@ -208,7 +208,7 @@ a.carousel-control.right:hover {
 }
 
 .download-button {
-	border-radius: 1px;
+  border-radius: 10px;
   background-color: #007BFF;
   display: inline-flex; /* Display the elements inside the link side by side */
   align-items: center; /* Align elements vertically center */
@@ -226,12 +226,13 @@ a.carousel-control.right:hover {
 }
 
 .text-container {
+text-align: left;
   font-size: 18px; /* Adjust the size of the text */
   line-height: 1.2; /* Adjust the line height for two lines */
 }
 
 .github-button {
-	border-radius: 1px;
+  border-radius: 10px;
   background-color: #333;
     text-decoration: none;
   display: inline-block;
