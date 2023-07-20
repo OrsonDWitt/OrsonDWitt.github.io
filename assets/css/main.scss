@@ -21,10 +21,8 @@ h2 {
 //birdmapp carousel
 
 .app-container {
-  position: absolute;
-margin-top: 10px;
+  margin: 10px auto;
   text-align: center;
-  left: 50%;
   z-index: 1; 
 }
 
@@ -41,14 +39,12 @@ text-align: center;
 }
 
 .carousel {
-  position: absolute;
-  top: 50%;
-  left: 50%;
+  margin: 50px auto;
   width: 100%;
   padding: 90px 0;
   text-align: center;
   background-color: #FFFFFF;
-  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .carousel-inner {
