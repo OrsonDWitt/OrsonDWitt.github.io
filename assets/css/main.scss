@@ -213,7 +213,7 @@ a.carousel-control.right:hover {
   display: inline-flex; /* Display the elements inside the link side by side */
   align-items: center; /* Align elements vertically center */
   text-decoration: none; /* Remove underline from the link */
-  padding: 5px 5px;
+  padding: 10px 10px;
   font-size: 15px;
   color: #fff;
   cursor: pointer;
@@ -237,7 +237,8 @@ text-align: left;
     text-decoration: none;
   display: inline-block;
   padding: 10px 20px;
-  font-size: 20px;
+  font-size: 26px;
+line-height: 1.6;
   color: #fff;
   cursor: pointer;
   transition: background-color 0.3s;
