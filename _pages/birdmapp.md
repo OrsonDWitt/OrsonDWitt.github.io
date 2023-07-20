@@ -17,7 +17,7 @@ comments: false
       <div class="carousel-container">
         <div class="screenshot">
             <video width="560" height="420">
-            <source src="https://commons.wikimedia.org/wiki/File:NORWAY_TRIP_(4K).webm" type="video/webm">
+            <source src="https://upload.wikimedia.org/wikipedia/commons/1/17/NORWAY_TRIP_%284K%29.webm" type="video/webm">
             </video>
         <p class="authr">Oscar Wilde</p>
         </div>
