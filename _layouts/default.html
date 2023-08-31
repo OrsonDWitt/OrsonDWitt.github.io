@@ -1,3 +1,5 @@
+{% if page.url != "/birdmapp/changelog" %}
+
 {% include header.html %}
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -111,6 +113,8 @@
         {{ site.description }}
     </p>
 </div>-->
+
+{% endif %} <!-- if the birdmapp/changelog -->
 
 <!-- Content
 ================================================== -->
