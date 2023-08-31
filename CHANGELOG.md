@@ -1,8 +1,6 @@
 ---
-layout: page
 title: 'BirdMApp Changelog'
-description: 'x'
-permalink: /ch
+permalink: /birdmapp/changelog
 comments: false
 ---
 
