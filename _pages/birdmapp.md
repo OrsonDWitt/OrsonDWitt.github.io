@@ -2,7 +2,7 @@
 layout: page
 title: 'BirdMApp'
 description: 'x'
-permalink: /
+permalink: /birdmapp
 comments: false
 ---
 
