@@ -2,7 +2,7 @@
 title: 'BirdMApp Changelog'
 permalink: /birdmapp/changelog
 comments: false
-layout: zero
+layout: null
 ---
 
 
