@@ -4,7 +4,7 @@ permalink: /birdmapp/changelog
 comments: false
 ---
 
-<p style="text-align: center;">
+<br>
 # Hey there!
 <font size="16px">
 This pop-up will be used as a way to notify you if there's a new release (unless I find a better way...). Hope it's not too much of a bother!
@@ -13,7 +13,6 @@ For now, though, since this has just been released, there's nothing new. Enjoy t
 <br>
 No, really. I put my heart and soul into this and would love to hear it if you genuinely find it useful. ☺️
 </font>
-</p>
 
 <!-- 
 
