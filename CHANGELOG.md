@@ -4,11 +4,20 @@ permalink: /birdmapp/changelog
 comments: false
 ---
 
+# Hey there!
+
+## This pop-up will be used as a way to notify you if there's a new release (unless I find a better way...). Hope it's not too much of a bother!
+## For now, though, since this has just been released, there's nothing new. Enjoy the app, and let me know how you find it! 
+## No, really. I put my heart and soul into this and would love to hear it if you genuinely find it useful. ☺️
+
+<!-- 
+
 # Changelog
 
 ## [Unreleased]
 
 ## [1.1.1] - 2023-03-05
+
 
 ### Added
 
@@ -25,3 +34,5 @@ comments: false
 ### Removed
 
 - Unused file
+
+-->
