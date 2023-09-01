@@ -2,7 +2,7 @@
 layout: page
 title: 'BirdMApp'
 description: 'BirdMApp lets you map all your bird photos, find local birds, gain insights and more. The only thing that you have to do is tag your photos, and BirdMApp will do the rest!'
-permalink: /
+permalink: /birdmapp
 comments: false
 ---
 
