@@ -5,7 +5,7 @@ categories: [ Egypt - Shattered Order ]
 tags: [roadmap, dev-log]
 image: assets/images/roadmap.jpg
 description: "The development roadmap for the upcoming interactive fiction/strategy videogame Egypt: Shattered Order"
-featured: true
+featured: false
 hidden: false
 ---
 
