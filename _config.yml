@@ -1,7 +1,7 @@
 # Site
 name: "Orson De Witt"
 title: "Orson De Witt"
-description: 'The website of the developer of Egypt: Shattered Order and the author of Orca Hunting School.'
+description: "Data analyst's storytelling endeavors. BirdMApp, Egypt: Shattered Order, Orca Hunting School and more."
 logo: 'assets/images/logo.png'
 logo-lightblue: 'assets/images/logo-lightblue.png'
 logo-small: 'assets/images/logo-small.png'
@@ -15,7 +15,7 @@ email: 'author@orsondewitt.com'
 
 # Links
 books: '/books'
-birdmapp: '/'
+birdmapp: '/birdmapp'
 games: 'https://orsondewitt.com/egypt' #'https://egypt.orcinus.games'
 
 # Egypt
