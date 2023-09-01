@@ -34,7 +34,9 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 .card_container{
-	margin: 30px;
+	margin: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 	font-family: "Raleway", sans-serif;
 }
 
@@ -50,7 +52,7 @@ License: https://www.wowthemes.net/freebies-license/
 	position: relative;
 	flex: 1;
 	max-width: 460px;
-	height: 300px;
+	height: 400px;
 	margin: 20px;
 	overflow: hidden;
 }
