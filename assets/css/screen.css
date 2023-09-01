@@ -49,7 +49,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 .card_image{
-	border: 1.5px solid;
+	border: 2.5px solid;
 	border-color: #571a1a;
 	background: #50A7FF;
 	position: relative;
@@ -77,10 +77,9 @@ License: https://www.wowthemes.net/freebies-license/
 	position: absolute;
 	top: 0;
 	right: 0;
-	color: #fff;
 	width: 100%;
 	height: 100%;
-	color: #571a1a;
+	color: #000;
 }
 
 .card_image .details h2{
