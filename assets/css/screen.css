@@ -49,8 +49,8 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 .card_image{
-	border: 2px solid;
-	border-color: #000;
+	border: 1.5px solid;
+	border-color: #571a1a;
 	background: #50A7FF;
 	position: relative;
 	flex: 1;
