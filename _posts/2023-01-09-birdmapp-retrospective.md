@@ -3,7 +3,7 @@ layout: post
 title:  "BirdMApp — a Retrospective"
 categories: [ BirdMApp ]
 tags: [birdmapp, data-analysis]
-image: 
+image: /assets/images/birdmapp_post.png
 description: "A short retrospective of BirdMApp"
 featured: false
 hidden: false
@@ -14,7 +14,7 @@ Even more so, I wanted to know which bird species are present in my area at any 
 
 It reached culmination after my visit to a bird park with more than a hundred exotic species. I was wondering, which parts of the world do they all come from? I thought, "what better incentive for me to finally build the app"? 
 
-I started with "market research". I asked around. On top of responses that can be summarized as "haha, stupid, that's not how birdwatching works!", I saw a clear indication that nobody has ever heard of such a thing. So BirdMApp it was. 
+I started with "market research". I asked around. On top of responses that can be summarized as "ha-ha, stupid, that's not how birdwatching works!", I saw a clear indication that nobody had ever heard of such a thing. So [/birdmapp](BirdMApp) it was. 
 
 As the first step, I had to find data and wrangle it. 
 
@@ -43,7 +43,7 @@ At first, I thought I would be able to get the data, somewhat organized, from eB
 1. eBird has its own "Trends" section for species distribution, and there are only a thousand or so species. You cannot download more than a few. There are also maps on species cards, which are plotted based on observation data submitted to eBird. But this is not open data. Instead, they release raw observation data in a txt format that weighs more than 100 Gb. My downloads were failing half-way through, and after multiple days, multiple download managers (that all failed to restart the download after it stopped) and multiple nights of my PC running, I finally downloaded the data, only to find that I would need more than 100 Gb of RAM to load the file into R. Using awk did not make it any easier. 
 2. BirdLife International refused to share their distribution maps when I explained to them that "just a few" will not suffice.
    
-And there I was, tearing my hair out after more than a week of wasted time and effort. Thankfully, then, I stumbled upon GBIF (*"the Global Biodiversity Information Facility — an international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth"*), and it was a godsend. Not only was it open data, but it was easy to work with, too. You could choose hundreds of parameters to filter observation data, and download it in a manageable .csv format, conveniently zipped and delivered to your machine. An absolute gem of a website! 
+And there I was, tearing my hair out after more than a week of wasted time and effort. Thankfully, then, I stumbled upon GBIF (*"the Global Biodiversity Information Facility — an international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth"*), and it was a godsend. Not only was it open data containing records from eBird, iNaturalist, Xeno-Canto, Swedish Species Observation System and more, but it was easy to work with, too. You could choose hundreds of parameters to filter observation data, and download it in a manageable .csv format, conveniently zipped and delivered to your machine. An absolute gem of a website! 
 
 ### Back to work!
 For analysis, I decided to use only the most recent data. I did not want my distributions to show long gone birds as prevalent. Besides, the recent years had many more observations with location data. Therefore, I chose years 2011 through 2021. I excluded 2022 as it had less observations than 2021 and some datasets were lacking (if I'm not misremembering, there was no eBird data uploaded to GBIF yet), and downloaded data month by month, year by year. This way, I could later add additional years to my analysis without detriment to the overall data.
@@ -65,6 +65,6 @@ This was not the only problem with GBIF. Remember *Artamus leucoryn* that I manu
 Also, there were many species that were named differently, or considered merely subspecies by GBIF (in contrast to HBW/BirdLife). I had to take care of all of that semi-manually, adding synonyms to my bird list along the way, or deleting species from the list as they had no observations. Moreover, some species' columns were incorrect. For example, *Cyornis stresemanni/Eumyias stresemanni* is under the species *Rhinomyias oscillans*, and the only way to get the data for this newly-split species is to search for it in a completely different column, including authority. This is far from the only hurdle that I've encountered with GBIF, but it's a magnificent resource nonetheless and I wish I had learned about it sooner. 
 
 ### Analysis
-There is a huge variance in sampling effort with such a dataset. For example, California has as many bird observations as Texas and New York State, combined. At the same time, Syria and Yemen rank among the lowest in terms of bird observations, understandably. It does not mean that there are more bird species in California. In general, the wealthier and more stable (politically) a region is, the more likely people have the time, interest and resources for observing and recording their encounters with birds (*duh*). Therefore, I used weighted normalization to account for variance in sampling effort and assign relative abundance to birds. Similarly, I calculated rarity for each bird, taking into account only the regions where the bird appears, so as not to have skewed results. As a result, I was very happy with my distribution maps. I believe that in some ways they are more true to life than those on eBird.
+There is a huge variance in sampling effort with such a dataset. For example, California has as many bird observations as Texas and New York State, combined. At the same time, Syria and Yemen rank among the lowest in terms of bird observations, understandably. It does not mean that there are more bird species in California. In general, the wealthier and more stable a region is, the more likely people have the time, interest and resources for observing and recording their encounters with birds (*duh*). Therefore, I used weighted normalization to account for variance in sampling effort and assign relative abundance to birds. Similarly, I calculated rarity for each bird, taking into account only the regions where the bird appears, so as not to have skewed results. As a result, I was very happy with my distribution maps. I believe that in some ways they are more true to life than those on eBird.
 
 As concerns my experience with building such a complex Shiny app, I am not yet ready to talk about it. I think I might have to go through therapy first. 😂
