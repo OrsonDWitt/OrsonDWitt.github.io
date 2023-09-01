@@ -5,8 +5,8 @@ categories: [ Egypt - Shattered Order ]
 tags: [roadmap, dev-log]
 image: assets/images/roadmap.jpg
 description: "The development roadmap for the upcoming interactive fiction/strategy videogame Egypt: Shattered Order"
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 I thought that a development roadmap is a great way to create a framework for more detailed updates in the future, so I sat down and thought of everything I've already done and what I'm planning to do. It's not a complete list — many technical things I could not even remember because I've been only focusing on the story recently. This goes on to show the value of such a roadmap and how it can keep me in line... and anxious, too; it helped me see that the storyline on which I've been working so hard did not even cover half of what I'm striving for with this game.
