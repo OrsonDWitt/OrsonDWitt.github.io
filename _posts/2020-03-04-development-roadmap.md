@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Egypt: Shattered Order — Development Roadmap"
-author: Orson
 categories: [ Egypt - Shattered Order ]
 tags: [roadmap, dev-log]
 image: assets/images/roadmap.jpg
