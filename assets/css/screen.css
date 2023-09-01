@@ -115,16 +115,19 @@ License: https://www.wowthemes.net/freebies-license/
 	transform: translateY(-40px);
 }
 
+@media (max-width: 1560px){
+	.card_image img{
+		width: 100%;
+		height: 100%;
+	}
+}
+
 @media (max-width: 1080px){
 	.card_image{
 		flex: 100%;
 		max-width: 480px;
 	}
 
-	.card_image img{
-		width: 100%;
-		height: 100%;
-	}
 }
 
 @media (max-width: 400px){
