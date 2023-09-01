@@ -3,7 +3,7 @@ layout: post
 title:  "BirdMApp — a Retrospective"
 categories: [ BirdMApp ]
 tags: [birdmapp, data-analysis]
-image: /assets/images/birdmapp_post.PNG
+image: assets/images/birdmapp_post.PNG
 description: "A short retrospective of BirdMApp"
 featured: false
 hidden: false
