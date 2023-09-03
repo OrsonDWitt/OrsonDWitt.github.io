@@ -59,7 +59,7 @@ comments: false
     <i class="fab fa-github"></i> GitHub
   </a>
 </div>
-</div
+</div>
 
     <a class="carousel-control left">
     <span class="arrow left"></span>
