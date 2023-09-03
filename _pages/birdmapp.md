@@ -16,7 +16,7 @@ comments: false
     <div class="item active">
       <div class="carousel-container">
         <div class="screenshot">
-            <video width="560" height="420">
+            <video width="1000" height="562" controls="" muted="" loop="" autoplay="">
             <source src="https://orsondewitt.com/assets/birdmapp/bird_charts.mp4" type="video/mp4">
             </video>
         <p class="authr">Oscar Wilde</p>
