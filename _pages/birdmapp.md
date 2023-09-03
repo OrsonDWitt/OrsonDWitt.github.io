@@ -16,30 +16,30 @@ comments: false
     <div class="item active">
       <div class="carousel-container">
         <div class="screenshot">
+          <p class="author">Find all species present in a region, identify birds</p>
             <video width="100%" controls="" muted="" loop="" autoplay="">
             <source src="https://orsondewitt.com/assets/birdmapp/bird_map.mp4" type="video/mp4">
             </video>
-        <p class="authr">Find all species present in a region, identify birds</p>
         </div>
       </div>
     </div>
     <div class="item">
       <div class="carousel-container">
         <div class="screenshot">
+                  <p class="author">Track monthly migrations, see how they compare to your observations</p>
             <video width="100%" controls="" muted="" loop="" autoplay="">
             <source src="https://orsondewitt.com/assets/birdmapp/bird_distribution.mp4" type="video/mp4">
             </video>
-        <p class="author">Track monthly migrations, see how they compare to your observations</p>
         </div>
       </div>
     </div>
     <div class="item">
       <div class="carousel-container">
         <div class="screenshot">
+                  <p class="author">Track your progress</p>
             <video width="100%" height="562" controls="" muted="" loop="" autoplay="">
             <source src="https://orsondewitt.com/assets/birdmapp/bird_charts.mp4" type="video/mp4">
             </video>
-        <p class="author">Track your progress</p>
         </div>
       </div>
     </div>
