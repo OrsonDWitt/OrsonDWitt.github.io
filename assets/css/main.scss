@@ -118,9 +118,16 @@ screenshot {
   cursor: pointer;
 }
 
+.carousel-control.left {
+  right: 0;
+  left: auto;
+margin-left: -15%;
+}
+
 .carousel-control.right {
   right: 0;
   left: auto;
+margin-right: -15%;
 }
 
 .carousel-control > .arrow {
