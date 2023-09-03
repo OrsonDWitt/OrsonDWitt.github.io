@@ -16,7 +16,7 @@ comments: false
     <div class="item active">
       <div class="carousel-container">
         <div class="screenshot">
-          <p class="author">Find all species present in a region, identify birds</p>
+          <p class="author">See all species you are likely to encounter in any given region, in any given month</p>
             <video width="100%" controls="" muted="" loop="" autoplay="">
             <source src="https://orsondewitt.com/assets/birdmapp/bird_map.mp4" type="video/mp4">
             </video>
