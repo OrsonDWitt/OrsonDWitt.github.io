@@ -250,7 +250,6 @@ line-height: 1;
   color: #fff;
   cursor: pointer;
   transition: background-color 0.3s;
- padding-right: 10px;
 }
 
 .download-button .icon {
@@ -268,6 +267,7 @@ line-height: 1;
 
 .button-container{
 margin-top: 2rem;
+	 padding-right: 14px;
 }
 
 .button-container a:hover {
