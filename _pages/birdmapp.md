@@ -26,7 +26,7 @@ comments: false
     <div class="item">
       <div class="carousel-container">
         <div class="screenshot">
-                  <p class="author">Track monthly migrations, see how they compare to your observations</p>
+                  <p class="author">Up-to-date bird ranges: analysis of 1 billion occurrences from the years 2011 through 2021 allows you to track monthly migrations of more than 10000 species, and see how they compare to your own observations</p>
             <video width="100%" controls="" muted="" loop="" autoplay="">
             <source src="https://orsondewitt.com/assets/birdmapp/bird_distribution.mp4" type="video/mp4">
             </video>
