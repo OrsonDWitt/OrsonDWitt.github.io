@@ -50,6 +50,15 @@ layout: null
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
+    <url>
+    <loc>https://orsondewitt.com/birdmapp</loc>
+                <xhtml:link
+               hreflang="en"
+               href="https://www.orsondewitt.com/birdmapp"/>
+    <lastmod>2023-08-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
       {% for post in site.posts %}
     {% unless post.published == false %}    
     <url>
