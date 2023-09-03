@@ -44,7 +44,7 @@ comments: false
       </div>
     </div>
   </div>
-    <a class="carousel-control left">
+  <a class="carousel-control left">
     <span class="arrow left"></span>
   </a>
   <a class="carousel-control right">
