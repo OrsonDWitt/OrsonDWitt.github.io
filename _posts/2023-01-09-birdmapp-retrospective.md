@@ -14,7 +14,7 @@ Even more so, I wanted to know which bird species are present in my area at any 
 
 It reached culmination after my visit to a bird park where I saw more than a hundred exotic species. I looked at the photos that I took and wondered, "how far are they from home? Are they rare? Which ones should I have spent more time on, as it's unlikely I will ever see them in wild?" I thought, "what better incentive for me to finally build the app?"
 
-I started with "market research". I asked around. On top of responses that can be summarized as "ha-ha, stupid, that's not how birdwatching works!", I saw a clear indication that nobody had ever heard of such a thing. So [/birdmapp](BirdMApp) it was. 
+I started with "market research". I asked around. On top of responses that can be summarized as "ha-ha, stupid, that's not how birdwatching works!", I saw a clear indication that nobody had ever heard of such a thing. So [BirdMApp](/birdmapp) it was. 
 
 As the first step, I had to find data and wrangle it. 
 
