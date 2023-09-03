@@ -57,7 +57,7 @@ comments: false
   </ol>
 </div>
 
-<div><div class="button-container app-container">
+<div><div class="button-container app-container" style="margin-right: 10px;">
   <a href="#" class="download-button">
     <div class="icon-container">
     <i class="fab fa-windows"></i>
