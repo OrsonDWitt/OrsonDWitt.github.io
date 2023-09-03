@@ -44,6 +44,17 @@ comments: false
       </div>
     </div>
   </div>
+    <a class="carousel-control left">
+    <span class="arrow left"></span>
+  </a>
+  <a class="carousel-control right">
+    <span class="arrow right"></span>
+  </a>
+  <ol class="carousel-indicators">
+    <li class="active"></li>
+    <li></li>
+    <li></li>
+  </ol>
 </div>
 
 <div><div class="button-container app-container">
@@ -60,15 +71,3 @@ comments: false
   </a>
 </div>
 </div>
-
-    <a class="carousel-control left">
-    <span class="arrow left"></span>
-  </a>
-  <a class="carousel-control right">
-    <span class="arrow right"></span>
-  </a>
-  <ol class="carousel-indicators">
-    <li class="active"></li>
-    <li></li>
-    <li></li>
-  </ol>
