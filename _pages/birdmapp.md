@@ -16,7 +16,7 @@ comments: false
     <div class="item active">
       <div class="carousel-container">
         <div class="screenshot">
-            <video width="55%" controls="" muted="" loop="" autoplay="">
+            <video width="100%" controls="" muted="" loop="" autoplay="">
             <source src="https://orsondewitt.com/assets/birdmapp/bird_map.mp4" type="video/mp4">
             </video>
         <p class="authr">Find all species present in a region, identify birds</p>
