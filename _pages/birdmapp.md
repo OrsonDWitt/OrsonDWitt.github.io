@@ -26,7 +26,7 @@ comments: false
     <div class="item">
       <div class="carousel-container">
         <div class="screenshot">
-            <video width="55%" controls="" muted="" loop="" autoplay="">
+            <video width="100%" controls="" muted="" loop="" autoplay="">
             <source src="https://orsondewitt.com/assets/birdmapp/bird_distribution.mp4" type="video/mp4">
             </video>
         <p class="author">Track monthly migrations, see how they compare to your observations</p>
@@ -36,7 +36,7 @@ comments: false
     <div class="item">
       <div class="carousel-container">
         <div class="screenshot">
-            <video width="55%" height="562" controls="" muted="" loop="" autoplay="">
+            <video width="100%" height="562" controls="" muted="" loop="" autoplay="">
             <source src="https://orsondewitt.com/assets/birdmapp/bird_charts.mp4" type="video/mp4">
             </video>
         <p class="author">Track your progress</p>
