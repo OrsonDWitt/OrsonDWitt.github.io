@@ -10,9 +10,9 @@ hidden: false
 ---
 
 I always wanted to have a specialized map for my wildlife photography. I was not satisfied with what regular "plot your photos on a map" programs gave me, and I wanted to have more information about my photos rather than simple markers on a map. For example, I was always curious whether some of the birds I'm seeing are vagrants in my area, or if they're just rare. 
-Even more so, I wanted to know which bird species are present in my area at any given time. I was growing increasingly frustrated by seeing ebird's "460 species in a hotspot", but only encountering the same species over and over again. So in the absence of a suitable alternative, I began pondering about creating my own. 
+Even more so, I wanted to know which bird species are present in my area at any given time. I was growing increasingly frustrated by seeing eBird's "460 species in a hotspot", but only encountering the same species over and over again. So in the absence of a suitable alternative, I began pondering about creating my own. 
 
-It reached culmination after my visit to a bird park with more than a hundred exotic species. I was wondering, which parts of the world do they all come from? I thought, "what better incentive for me to finally build the app"? 
+It reached culmination after my visit to a bird park where I saw more than a hundred exotic species. I looked at the photos that I took and wondered, "how far are they from home? Are they rare? Which ones should I have spent more time on, as it's unlikely I will ever see them in wild?" I thought, "what better incentive for me to finally build the app?"
 
 I started with "market research". I asked around. On top of responses that can be summarized as "ha-ha, stupid, that's not how birdwatching works!", I saw a clear indication that nobody had ever heard of such a thing. So [/birdmapp](BirdMApp) it was. 
 
@@ -66,5 +66,7 @@ Also, there were many species that were named differently, or considered merely 
 
 ### Analysis
 There is a huge variance in sampling effort with such a dataset. For example, California has as many bird observations as Texas and New York State, combined. At the same time, Syria and Yemen rank among the lowest in terms of bird observations, understandably. It does not mean that there are more bird species in California. In general, the wealthier and more stable a region is, the more likely people have the time, interest and resources for observing and recording their encounters with birds (*duh*). Therefore, I used weighted normalization to account for variance in sampling effort and assign relative abundance to birds. Similarly, I calculated rarity for each bird, taking into account only the regions where the bird appears, so as not to have skewed results. As a result, I was very happy with my distribution maps. I believe that in some ways they are more true to life than those on eBird.
+
+And the conclusions that I made in regards to the questions I had in the bird park? Sumatran Laughingthrush. That's the bird that I should have spent more time on. There are no records of it anywhere. Ever. I cannot make a distribution map for it or even simply add it as a wild bird of Indonesia. We don't know if it's still out there in the mountains or not. So that's the bird I should taken a good look at, and taken a hell of a lot more pictures.
 
 As concerns my experience with building such a complex Shiny app, I am not yet ready to talk about it. I think I might have to go through therapy first. 😂
