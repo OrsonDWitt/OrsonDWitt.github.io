@@ -67,6 +67,9 @@ Also, there were many species that were named differently, or considered merely 
 ### Analysis
 There is a huge variance in sampling effort with such a dataset. For example, California has as many bird observations as Texas and New York State, combined. At the same time, Syria and Yemen rank among the lowest in terms of bird observations, understandably. It does not mean that there are more bird species in California. In general, the wealthier and more stable a region is, the more likely people have the time, interest and resources for observing and recording their encounters with birds (*duh*). Therefore, I used weighted normalization to account for variance in sampling effort and assign relative abundance to birds. Similarly, I calculated rarity for each bird, taking into account only the regions where the bird appears, so as not to have skewed results. As a result, I was very happy with my distribution maps. I believe that in some ways they are more true to life than those on eBird.
 
+### Conclusions?
+I have learned a great deal about R, Shiny, birds, data analysis, and even geography. There's plenty of curious facts that I've learned along the way, and many more things that I will still discover as I navigate through my app. 
+
 And the conclusions that I made in regards to the questions I had in the bird park? Sumatran Laughingthrush. That's the bird that I should have spent more time on. There are no records of it anywhere. Ever. I cannot make a distribution map for it or even simply add it as a wild bird of Indonesia. We don't know if it's still out there in the mountains or not. So that's the bird I should taken a good look at, and taken a hell of a lot more pictures.
 
 As concerns my experience with building such a complex Shiny app, I am not yet ready to talk about it. I think I might have to go through therapy first. 😂
