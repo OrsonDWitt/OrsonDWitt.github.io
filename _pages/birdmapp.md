@@ -58,7 +58,7 @@ comments: false
 </div>
 
 <div><div class="button-container app-container">
-  <a href="#" class="download-button">
+  <a href="https://github.com/OrsonDeWitt/BirdMApp/archive/refs/tags/v1.0.0.zip" class="download-button">
     <div class="icon-container">
     <i class="fab fa-windows"></i>
   </div>
@@ -66,7 +66,7 @@ comments: false
     Download<br>for Windows
   </div>
   </a>
-  <a href="#" class="github-button">
+  <a href="https://github.com/OrsonDeWitt/BirdMApp" class="github-button">
     <i class="fab fa-github"></i> GitHub
   </a>
 </div>
