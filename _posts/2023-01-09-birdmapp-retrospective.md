@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BirdMApp — a Retrospective"
+title:  "Data Analysis for BirdMApp — a Retrospective"
 categories: [ BirdMApp ]
 tags: [birdmapp, data-analysis]
 image: assets/images/birdmapp_post.PNG
