@@ -1,14 +1,14 @@
 ---
 layout: page
 title: 'BirdMApp'
-description: 'BirdMApp lets you map all your bird photos, find local birds, gain insights and more. The only thing that you have to do is tag your photos, and BirdMApp will do the rest!'
+description: 'BirdMApp lets you map all your bird observations, find local birds, gain insights and more. The only thing that you have to do is select the folder with your tagged photos or import a csv list of observations, and BirdMApp will do the rest!'
 permalink: /birdmapp
 comments: false
 ---
 
 <div class="app-container">
   <h1 class="app-title">BirdMApp</h1>
-  <p class="app-description">BirdMApp lets you map all your bird photos, find local birds, gain insights and more. The only thing that you have to do is tag your photos, and BirdMApp will do the rest!</p>
+  <p class="app-description">BirdMApp lets you map all your bird observations, find local birds, gain insights and more. The only thing that you have to do is select the folder with your tagged photos or import a csv list of observations, and BirdMApp will do the rest!</p>
 </div>
     
 <div class="carousel">
