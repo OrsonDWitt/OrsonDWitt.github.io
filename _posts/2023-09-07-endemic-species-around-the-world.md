@@ -4,6 +4,8 @@ title:  "Endemic Bird Species Around the World (Exploring BirdMApp Data, Part #1
 categories: [ BirdMApp ]
 tags: [birdmapp, data-analysis]
 image: assets/birdmapp/Endemic.png
+hidden: false
+featured: false
 ---
 
 There are many curious things that I've uncovered when dealing with bird observation data from GBIF. For example, Estonia has 10 and 8 times as many bird observations as the neighboring Latvia and Lithuania, respectively, despite having a fraction of population. Why so? It turns out that Estonia uses A LOT of cameras for bird identification. I don't know if the stark difference between the countries is because Latvia and Lithuania do not use as many cameras (adding to Estonia's reputation of tech-savviness) or because they do not upload their data to GBIF. It's a curious fact that I'd like to explore in the future.
