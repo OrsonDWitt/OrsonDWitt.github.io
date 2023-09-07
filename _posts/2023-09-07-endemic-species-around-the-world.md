@@ -14,7 +14,7 @@ A thing that crossed my mind as I was working with the data was that I wanted to
 
 1. There are very few endemic species in the colder climates. I specifically chose not to cut off the northern hemisphere to show the stark contrast.
 
-2. Galapagos Islands, despite being famous for its unique flora and fauna, is far from exceptional in terms of amount of endemic species. Have you ever heard of unique biodiversity of Sao Tome and Principe, the island to the west of Central Africa? Me neither. But it has 28 unique bird species compared to Galapagos' 17.
+2. Galapagos Islands, despite being the most famous for its unique flora and fauna, is not the one only exceptional island in terms of amount of endemic species. Have you ever heard of unique biodiversity of Sao Tome and Principe, the island to the west of Central Africa, or that of French Polynesia? We need to work on PR of those islands.
 
 3. You will not see Antarctica with any endemic species, e.g. Emperor Penguin. This is because on my map Australian Antarctic Territory is not part of Antarctica; so the aforementioned Emperor Penguins that have been observed on Heard and MacDonald Island do not let Antarctica claim even one bird species.
 
