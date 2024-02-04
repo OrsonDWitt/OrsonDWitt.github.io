@@ -4,7 +4,7 @@ title:  "Endemic Bird Species Around the World (Exploring BirdMApp Data, Part #1
 categories: [ BirdMApp ]
 tags: [birdmapp, data-analysis]
 image: assets/birdmapp/Endemic.png
-hidden: false
+hidden: true
 featured: false
 ---
 
